@@ -1,0 +1,7 @@
+selenium==3.141.0
+pyyaml
+
+[dev]
+black
+twine
+wheel
