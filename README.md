@@ -10,7 +10,7 @@ URL : "https://github.com/EliotAndres/facebook-friend-graph"
 
 =========contents=============
 
-facebookFOF.py -> generates friend_graph.p, unique_urls.p (graph and the url list of friends)
+facebookFOF.py -> generates friend_graph.p, unique_urls.p (graph and the url list of friends)[run this]
 
 Facebook friend graph.ipynb -> Plots the graph. uses networkX/plotly.
 
@@ -54,7 +54,7 @@ Facebook friend graph.ipynb : from the facebook-friend-graph
 
 friend_graph.pickle : from the facebook-friend-graph
 
-node_features.py : ML model to detect sensitive features base on data in facebook folder.
+node_features.py : ML model to detect sensitive features base on data in facebook folder.[run this]
 
 Rest of the Files : To be completed by NUNU and JAY.
 
