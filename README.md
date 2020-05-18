@@ -1,4 +1,8 @@
+
+First of all SWITCH FACEBOOK TO CLASSIC MODE else nothing will work.
+
 There are 3 folders here.
+
 Please install the required libraries.
 
 1. "facebook-friend-graph" : this repo is used to generate the graph of your fb account's friend network. By default I have configured it with selenium for Firefox.
@@ -23,7 +27,7 @@ bin - place your driver of choice for selenium
 
 data - contains the output
 
-credentials.yaml : provided your credentials
+credentials.yaml : provide your credentials
 
 input.txt : list of accounts to be scraped
 
