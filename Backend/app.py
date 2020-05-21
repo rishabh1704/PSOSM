@@ -135,7 +135,7 @@ if __name__ == "__main__":
 	name_row = ["s_no","gender","interest ","political ","language ","life_event ","rel_status ","religious_views ","cities ","pro_skills","college","school","quotes","companies","username"]
 
 	mapping = {}
-	mapping["kundu"] = "dhruv.kundu.2"
+	mapping["kundu"] = "dhruv.kundu.1"
 	mapping["kshitij"] = "kshitij.gulati"
 	mapping["rishabh"] = "PyRishabhSharma"
 
