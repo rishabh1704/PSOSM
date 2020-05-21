@@ -61,24 +61,6 @@ def getNodeAttri(boss,node):
 	return jsonify(results)
 
 
-@app.route('/netgraph/<boss>')
-def getNetGraph(boss):
-	try:
-		with open("../graphs/friend_graph_"+boss+".pickle", 'rb') as f:
-			graph_list = pickle.load(f)	
-		
-	except Exception as E:
-		results = {'Error': str(E)}
-	return jsonify(results)
-
-@app.route('/frgraph/<boss>')
-def getFrGraph(boss):
-	try:
-		with open("../graphs/friend_graph_"+boss+".pickle", 'rb') as f:
-			graph_list = pickle.load(f)
-	except Exception as E:
-		results = {'Error': str(E)}
-	return jsonify(results)
 
 #=============================================================================================#
 
