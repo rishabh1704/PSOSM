@@ -40,6 +40,13 @@ def getNodeFriends(boss,node):
 def getBossAttri(boss):
 	try:
 		results = all_attri[boss][mapping[boss]]
+		if(boss=="kundu"):
+			results["sensitive"] = ['interest','religious_views','pro_skills']
+		if(boss=="rishabh"):
+			results["sensitive"] = ['interest','religious_views','political']
+		if(boss=="kshitij"):
+			results["sensitive"] = ['language','life_event','pro_skills']
+
 	except Exception as E:
 		results = {'Error': str(E)}
 	return jsonify(results)
@@ -78,43 +85,43 @@ def getFrGraph(boss):
 #Utitlity Functions
 
 def getWeight(boss):
-    listy = {}
-    in_file = "../boss_data/weights/weighted_"+boss+".csv"  
-    row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
-    c=0
-    for row in row_reader:
-        if(c==0):
-            print("\t"+str(row))
-        else:
-            if row[1] not in listy:
-            	listy[row[1]] = {}
-            
-            listy[row[1]][row[2]] = row[3]
+	listy = {}
+	in_file = "../boss_data/weights/weighted_"+boss+".csv"  
+	row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
+	c=0
+	for row in row_reader:
+		if(c==0):
+			print("\t"+str(row))
+		else:
+			if row[1] not in listy:
+				listy[row[1]] = {}
+			
+			listy[row[1]][row[2]] = row[3]
 
-        c+=1
-        
-    print("\tTotal number from weights: ",len(listy.keys()))
-    return listy
+		c+=1
+		
+	print("\tTotal number from weights: ",len(listy.keys()))
+	return listy
 
 def getAttri(boss):
-    listy = {}
-    in_file = "../boss_data/attributes/attributes_"+boss+".csv"  
-    row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
-    c=0
-    for row in row_reader:
-        if(c==0):
-            print("\t"+str(row))
-        else:
-            if row[14] not in listy:
-            	listy[row[14]] = []
-            
-            for i in range(len(row)):
-            	listy[row[14]].append(row[i])
-        c+=1
-        
-    print("\tTotal number from attributes : ",len(listy.keys()))
+	listy = {}
+	in_file = "../boss_data/attributes/attributes_"+boss+".csv"  
+	row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
+	c=0
+	for row in row_reader:
+		if(c==0):
+			print("\t"+str(row))
+		else:
+			if row[14] not in listy:
+				listy[row[14]] = {}
+			
+			for i in range(len(row)):
+				listy[row[14]][name_row[i]] = row[i]
+		c+=1
+		
+	print("\tTotal number from attributes : ",len(listy.keys()))
 
-    return listy
+	return listy
 
 #=============================================================================================#
 
@@ -124,6 +131,8 @@ if __name__ == "__main__":
 
 	all_weight = {}
 	all_attri = {}
+	
+	name_row = ["s_no","gender","interest ","political ","language ","life_event ","rel_status ","religious_views ","cities ","pro_skills","college","school","quotes","companies","username"]
 
 	mapping = {}
 	mapping["kundu"] = "Dhruv.Kundu.21"
