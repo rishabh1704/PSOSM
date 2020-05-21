@@ -135,9 +135,9 @@ if __name__ == "__main__":
 	name_row = ["s_no","gender","interest ","political ","language ","life_event ","rel_status ","religious_views ","cities ","pro_skills","college","school","quotes","companies","username"]
 
 	mapping = {}
-	mapping["kundu"] = "Dhruv.Kundu.21"
-	mapping["kshitij"] = "Kshitij.Gulati.21"
-	mapping["rishabh"] = "Rishabh.Sharma.21"
+	mapping["kundu"] = "dhruv.kundu.2"
+	mapping["kshitij"] = "kshitij.gulati"
+	mapping["rishabh"] = "PyRishabhSharma"
 
 	for boss in ["kundu","kshitij","rishabh"]:
 		print("\n"+boss)
