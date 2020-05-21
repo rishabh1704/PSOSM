@@ -18,10 +18,10 @@ def home():
 	return "<h1>This is the backend for our PSOSM Project</h1>"
 
 
-@app.route('/friends/<boss>')
+@app.route('/myfriends/<boss>')
 def getBossFriends(boss):
 	try:
-		results = all_weight[boss][boss]
+		results = all_weight[boss][mapping[boss]]
 	except Exception as E:
 		results = {'Error': str(E)}
 	return jsonify(results)
@@ -36,10 +36,10 @@ def getNodeFriends(boss,node):
 	return jsonify(results)
 
 
-@app.route('/attri/<boss>')
-def getBossAttri(boss,node):
+@app.route('/myattri/<boss>')
+def getBossAttri(boss):
 	try:
-		results = all_attri[boss][boss]
+		results = all_attri[boss][mapping[boss]]
 	except Exception as E:
 		results = {'Error': str(E)}
 	return jsonify(results)
@@ -55,7 +55,7 @@ def getNodeAttri(boss,node):
 
 
 @app.route('/netgraph/<boss>')
-def getNetGraph(boss,node):
+def getNetGraph(boss):
 	try:
 		with open("../graphs/friend_graph_"+boss+".pickle", 'rb') as f:
 			graph_list = pickle.load(f)	
@@ -65,7 +65,7 @@ def getNetGraph(boss,node):
 	return jsonify(results)
 
 @app.route('/frgraph/<boss>')
-def getFrGraph(boss,node):
+def getFrGraph(boss):
 	try:
 		with open("../graphs/friend_graph_"+boss+".pickle", 'rb') as f:
 			graph_list = pickle.load(f)
@@ -79,12 +79,12 @@ def getFrGraph(boss,node):
 
 def getWeight(boss):
     listy = {}
-    in_file = "../present/weighted_"+boss+".csv"  
+    in_file = "../boss_data/weights/weighted_"+boss+".csv"  
     row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
     c=0
     for row in row_reader:
         if(c==0):
-            print(row)
+            print("\t"+str(row))
         else:
             if row[1] not in listy:
             	listy[row[1]] = {}
@@ -93,26 +93,27 @@ def getWeight(boss):
 
         c+=1
         
-    print("\nTotal number : ",len(listy.keys()))
+    print("\tTotal number from weights: ",len(listy.keys()))
     return listy
 
 def getAttri(boss):
     listy = {}
-    in_file = "../present/attributes_"+boss+".csv"  
+    in_file = "../boss_data/attributes/attributes_"+boss+".csv"  
     row_reader = csv.reader(open(in_file, "r",encoding="utf8"))
     c=0
     for row in row_reader:
         if(c==0):
-            print(row)
+            print("\t"+str(row))
         else:
-            if row[1] not in listy:
-            	listy[row[1]] = {}
+            if row[14] not in listy:
+            	listy[row[14]] = []
             
-            listy[row[1]][row[2]] = row[3]
-
+            for i in range(len(row)):
+            	listy[row[14]].append(row[i])
         c+=1
         
-    print("\nTotal number : ",len(listy.keys()))
+    print("\tTotal number from attributes : ",len(listy.keys()))
+
     return listy
 
 #=============================================================================================#
@@ -122,10 +123,18 @@ def getAttri(boss):
 if __name__ == "__main__":
 
 	all_weight = {}
+	all_attri = {}
+
+	mapping = {}
+	mapping["kundu"] = "Dhruv.Kundu.21"
+	mapping["kshitij"] = "Khsitij.Gulati.21"
+	mapping["rishabh"] = "Rishabh.Sharma.21"
+
 	for boss in ["kundu","kshitij","rishabh"]:
+		print("\n"+boss)
 		all_attri[boss] = getAttri(boss)
 		all_weight[boss] = getWeight(boss)
-		
+
 	app.run()
 
 #=============================================================================================#
