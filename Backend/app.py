@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
 	mapping = {}
 	mapping["kundu"] = "Dhruv.Kundu.21"
-	mapping["kshitij"] = "Khsitij.Gulati.21"
+	mapping["kshitij"] = "Kshitij.Gulati.21"
 	mapping["rishabh"] = "Rishabh.Sharma.21"
 
 	for boss in ["kundu","kshitij","rishabh"]:
