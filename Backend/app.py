@@ -76,12 +76,21 @@ def getWeight(boss):
 			print("\t"+str(row))
 		else:
 			if row[1] not in listy:
-				listy[row[1]] = {}
+				listy[row[1]] = []
 			
-			listy[row[1]][row[2]] = row[3]
+			listy[row[1]].append([row[3],row[2]])
 
 		c+=1
 		
+	for uname in listy.keys():
+		cur = listy[uname]
+		cur.sort(reverse=True)
+		dicti = {}
+		for i in range(len(cur)):
+			dicti[i] = cur[i]
+
+		listy[uname] = dicti
+	
 	print("\tTotal number from weights: ",len(listy.keys()))
 	return listy
 
