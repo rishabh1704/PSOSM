@@ -47,9 +47,7 @@ def getBossAttri(boss):
 		if(boss=="kshitij"):
 			results["sensitive"] = ['language','life_event','pro_skills']
 
-		# print(results["interest"])
 		for val in results["sensitive"]:
-			print(val,results[val])
 			results[val]["sensitive"] = True
 
 	except Exception as E:
