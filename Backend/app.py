@@ -47,6 +47,11 @@ def getBossAttri(boss):
 		if(boss=="kshitij"):
 			results["sensitive"] = ['language','life_event','pro_skills']
 
+		# print(results["interest"])
+		for val in results["sensitive"]:
+			print(val,results[val])
+			results[val]["sensitive"] = True
+
 	except Exception as E:
 		results = {'Error': str(E)}
 	return jsonify(results)
@@ -107,7 +112,7 @@ def getAttri(boss):
 				listy[row[14]] = {}
 			
 			for i in range(len(row)):
-				listy[row[14]][name_row[i]] = row[i]
+				listy[row[14]][name_row[i]] = {"value":row[i],"sensitive":False}
 		c+=1
 		
 	print("\tTotal number from attributes : ",len(listy.keys()))
@@ -123,7 +128,7 @@ if __name__ == "__main__":
 	all_weight = {}
 	all_attri = {}
 	
-	name_row = ["s_no","gender","interest ","political ","language ","life_event ","rel_status ","religious_views ","cities ","pro_skills","college","school","quotes","companies","username"]
+	name_row = ["s_no","gender","interest","political","language","life_event","rel_status","religious_views","cities","pro_skills","college","school","quotes","companies","username"]
 
 	mapping = {}
 	mapping["kundu"] = "dhruv.kundu.1"
