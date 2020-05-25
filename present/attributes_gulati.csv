@@ -1,0 +1,768 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,username
+0,Male,Female,left,,,single,Hindu,Delhi,Java,IIIT,HIMALAYAN ENGLISH ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+1,Male,Female,,Hindi,Graduated,,Hindu,Delhi, Scala,DAUGHTER OF THE CROSS CONVENT SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+2,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,Other,Mumbai,C#,SIKKIM HOMES ACADEMY,"Hope never abandons you, you abandon it. George Weinberg"
+3,Male,Female,left,Hindi,Graduated,,,Mumbai, Google Analytics,IIIT,SHALOM ACADEMY,
+4,Female,Male,apolitical,Hindi,,,Hindu,Bangalore,SEM Marketing,IIIT,,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+5,Female,Male,left,Hindi,Graduated,,,Hyderabad, Google Analytics,PADMA ODZER CHOLING,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+6,Male,,right,Hindi,New Job,,Hindu,Mumbai, CRMs,KEN ENGLISH SCHOOL,,
+7,Female,Male,,Hindi,New Job,,Hindu,Hyderabad,,IIIT,DE NOBILE ACADEMY (PVT),"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+8,Male,Female,,Hindi,Started Studying at IIIT Delhi,single,Other,,Frequency analysis,INDRIA GHANDHI,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+9,Female,Male,apolitical,,Graduated,single,Other,Delhi, Google Search Console Operator,BLOOM ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+10,Male,Female,left,Hindi,,,,Delhi, ERP systems,IIIT,WESTERN MODERN ENGLISH SCHOOL,
+11,Male,Female,left,English,Started Studying at IIIT Delhi,single,Other,, CRMs,IIIT,RISING STAR (PVT),The only place you find success before work is in the dictionary. May V Smith
+12,Female,Male,apolitical,Hindi,Graduated,single,Other,,Adobe Creative Suite,VIDYA BHARATI SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+13,Female,Male,left,English,Started Studying at IIIT Delhi,single,,Delhi,,WESTERN MODERN SCHOOL,
+14,Male,,,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi, C++,IIIT,HIMALAYAN ENGLISH ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+15,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore, C++,IIIT,WESTERN MODERN ENGLISH SCHOOL,The only place you find success before work is in the dictionary. May V Smith
+16,Female,Male,apolitical,Hindi,,single,,Delhi, C++,"GYAN JYOTI ACADEMY,BURIAKHOP",,
+17,Male,Female,left,Hindi,New Job,single,Other,Bangalore, Google Analytics,DEFFODILS ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+18,Female,Male,left,Hindi,Graduated,,Hindu,Bangalore,Frequency analysis,IIIT,LELIUM ACADEMY SCHOOL,
+19,,Other,left,Hindi,Graduated,,,Hyderabad,C#,I E C MISSION PRIMARY SCHOOL RIMBI,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+20,Female,Male,apolitical,Hindi,Bought Vehicle,,Hindu,Hyderabad,,IIIT,NEW TULIPS KINDERGARDEN,,
+21,Female,,,English,Started Studying at IIIT Delhi,,Hindu,Delhi, Google Analytics,MARIGOLD NURSERY SCHOOL,,
+22,Male,Female,left,English,,single,Hindu,, Scala,IIIT,ANNIES HOME,
+23,,,right,Hindi,,single,Hindu,Delhi, C++,IIIT,WISDOM VALLEY ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+24,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore, ERP systems,SARASWATI SHISHU VIDYALAYA,"Hope never abandons you, you abandon it. George Weinberg"
+25,Female,Male,apolitical,Hindi,Bought Vehicle,single,Hindu,Delhi,Frequency analysis,DAUGHTER OF THE CROSS CONVENT SCHOOL,
+26,Male,Female,left,Hindi,Bought Vehicle,,,Bangalore,Frequency analysis,LITTLE FLOWER NURSERY SCHOOL,"Hope never abandons you, you abandon it. George Weinberg"
+27,Male,Female,,Hindi,,,Hindu,Mumbai,,DAFFODILS HOME,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+28,,Other,,,Graduated,single,Hindu,Delhi,R,SUN RISE ENGLISH SCHOOL,,
+29,Male,,right,Hindi,Bought Vehicle,single,Other,Delhi,R,IIIT,HILL BUDS ACADEMY,,
+30,Female,Male,left,English,Started Studying at IIIT Delhi,single,Hindu,Delhi, CRMs,IIIT,PRASHANTI VIDYA GIRI,
+31,Male,Female,right,Hindi,New Job,single,Hindu,Hyderabad,Adobe Creative Suite,Bethal Pvt. School,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+32,Female,Male,right,Hindi,Started Studying at IIIT Delhi,,,Bangalore,,IIIT,PALKHANG ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+33,,Female,right,Hindi,Bought Vehicle,,Hindu,Hyderabad,Java,IIIT,SARASWATI SISHU VIDYALA,"Hope never abandons you, you abandon it. George Weinberg"
+34,,Male,apolitical,,Bought Vehicle,single,Hindu,Delhi, CRMs,IIIT,GRACE ENGLISH SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+35,,Male,apolitical,Hindi,New Job,single,,, C++,IIIT,BAHAI SCHOOL (PVT),"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+36,Female,Male,left,,Started Studying at IIIT Delhi,single,Other,Delhi,Adobe Creative Suite,ST.XAVIERS SCHOOL,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+37,Male,Female,left,Hindi,Started Studying at IIIT Delhi,,Hindu,Hyderabad, Scala,IIIT,RAINDOW PRY (PVT),I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+38,Female,Male,right,,,,Hindu,Delhi,Mathematics ,IIIT,UNITED ACADEMY SCHOOL DARAMDIN,,
+39,Male,Female,right,English,New Job,,,Delhi,SEM Marketing,IIIT,LITTLE FLOWER NURSERY (PRY),It took me a long time not to judge myself through someone elses eyes. Sally Field
+40,,,left,Hindi,Graduated,single,,Delhi,C#,SARASWATI SISHU NIKETAN,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+41,Female,Male,apolitical,Hindi,New Job,,,Delhi,R,RAMAN HIDDEN VALLEY ACADEMY,,
+42,Female,,left,English,New Job,single,,Delhi, Scala,PARSURAM MEMORIAL ACADEMY,,
+43,Male,Female,left,Hindi,Bought Vehicle,single,Hindu,Delhi, Ableton Live Suite,I E C MISSION PRIMARY SCHOOL RIMBI,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+44,Male,Female,right,,New Job,,Hindu,Bangalore, Ableton Live Suite,IIIT,RADIANT ACADEMY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+45,Male,Female,apolitical,English,Graduated,single,Hindu,Bangalore, Ableton Live Suite,LITTLE FLOWER NURSERY (PRY),"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+46,Female,Male,right,Hindi,Started Studying at IIIT Delhi,single,,,Java,PLAY AND LEARN NURSERY SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+47,Female,,right,Hindi,Started Studying at IIIT Delhi,single,,Hyderabad,Adobe Creative Suite,LITTLE ANGEL SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+48,Female,Male,right,English,Bought Vehicle,single,Hindu,Bangalore, Google Analytics,ADONAI HOMES,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+49,Male,Male,apolitical,English,Started Studying at IIIT Delhi,,,Bangalore, Google Search Console Operator,VIDYA BHARATI NAYABAZAR,,
+50,Female,,apolitical,Hindi,Started Studying at IIIT Delhi,single,,Mumbai,Frequency analysis,IIIT,ST JOHN ENGLISH SCHOOL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+51,,,left,Hindi,Graduated,single,Other,Mumbai,Frequency analysis,IIIT,NEW VISION ACADEMY,,
+52,Male,,right,Hindi,Graduated,single,,Hyderabad,Frequency analysis,TRINITY SCHOOL SRIBADAM,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+53,Male,Female,right,,New Job,single,Hindu,Delhi, Google Search Console Operator,BAPTIST ENGLISH SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+54,,Female,left,English,New Job,single,,,Java,IIIT,NEW HORIZON ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+55,Female,,left,English,Bought Vehicle,,Hindu,,Java,IIIT,HEBRON ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+56,Male,Female,,English,New Job,single,Other,Bangalore, CRMs,BAPTIST ENGLISH SCHOOL,,
+57,Female,Male,,,,single,Hindu,Hyderabad, C++,PARAMOUNT ACADEMY,
+58,,Other,apolitical,Hindi,,single,Hindu,Delhi,Java,ANNIES HOME,
+59,Female,Male,right,Hindi,Graduated,single,,Delhi, Scala,IIIT,MOTHER TERESA MEMORIAL SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+60,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore,SEM Marketing,IIIT,NEW TULIPS KINDERGARDEN,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+61,Female,Male,left,Hindi,New Job,single,Hindu,Delhi,SEM Marketing,MT. EVEREST SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+62,Male,,left,English,,single,Other,Hyderabad, Google Analytics,SAI GURUKUL ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+63,,,,English,New Job,single,Other,Bangalore, ERP systems,RIVERINE ELEMENTRY SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+64,Female,Male,,Hindi,,single,Other,Mumbai,,HOLY FAITH ENGLISH SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+65,Male,Female,right,English,Started Studying at IIIT Delhi,single,Hindu,Mumbai,Java,BLOOSOM (PVT),"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+66,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, Google Search Console Operator,MODERN ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+67,,Other,,Hindi,Graduated,,,Bangalore,Mathematics ,SIKKIM HIMALAYAN ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+68,Male,Female,,Hindi,Started Studying at IIIT Delhi,,,Hyderabad, ERP systems,IIIT,KARMA DHARMA CHAKRA UPS,,
+69,Female,Male,right,English,Bought Vehicle,,Hindu,Bangalore, Scala,MOUNT KANCHAN ACADEMY,,
+70,Male,Female,left,Hindi,,single,Hindu,Delhi,Mathematics ,IIIT,ST.XAVIERS SCHOOL,,
+71,Male,Female,left,Hindi,Bought Vehicle,,Hindu,,,IIIT,ST THOMAS SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+72,Female,,,Hindi,,,,Mumbai, ERP systems,SUN SHINE ENGLISH SCHOOL,,
+73,Female,Male,,English,,single,,Hyderabad,Frequency analysis,WESTERN MODERN ENGLISH SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+74,,Female,left,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore,Mathematics ,HIMALAYAN RISING ACADEMY,,
+75,Male,Female,right,Hindi,Started Studying at IIIT Delhi,,,Delhi,SEM Marketing,IIIT,SUNRISE ACADEMY SCHOOL,,
+76,Female,Male,left,Hindi,Graduated,single,Hindu,Delhi, Google Analytics,ST .PATRICK,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+77,Male,,,English,Started Studying at IIIT Delhi,,,Delhi,,IIIT,ST. JOSEPH,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+78,Male,Female,,Hindi,,single,Hindu,Delhi,R,IIIT,EVERSHINE ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+79,Male,Female,right,English,Bought Vehicle,single,Hindu,Delhi, CRMs,NORTH SIKKIM ACADEMY,,
+80,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,,, Ableton Live Suite,ST. THOMAS SCHOOL,,
+81,Female,Male,apolitical,,New Job,,,Delhi,Mathematics ,IIIT,NEW TULIPS KINDERGARDEN,
+82,Male,,left,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore,R,ST JOHN ENGLISH SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+83,,Male,left,,Started Studying at IIIT Delhi,,Other,,Java,IIIT,SUN RISE ENGLISH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+84,,,left,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi, Ableton Live Suite,IIIT,MOUNT ZION KIDZEE,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+85,,Male,,English,New Job,single,Hindu,Bangalore,Adobe Creative Suite,SHUBHASAI INSTITUTE OF ELEMENTARY EDUCATION,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+86,Female,Male,apolitical,English,Bought Vehicle,,,Hyderabad, Google Analytics,NEW STEPS ACADEMY,
+87,,,right,Hindi,,single,,Hyderabad,Java,IIIT,ROSHAN MEMORIAL ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+88,Female,,,English,Bought Vehicle,,Hindu,Bangalore, Google Search Console Operator,SARASWATI SISHU VIDYALAYA,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+89,Female,Male,left,Hindi,New Job,single,Other,Bangalore,Mathematics ,IIIT,TRUE LIGHT ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+90,Male,Female,apolitical,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi,Frequency analysis,PHUSPANJALI VIDHALAYA,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+91,,Male,right,,Graduated,single,Hindu,Mumbai, C++,IIIT,EUREKA ENGLISH SCHOOL,,
+92,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi,Adobe Creative Suite,GEN NEXT ACADEMY,
+93,Female,Male,right,,Graduated,single,Hindu,Bangalore,Java,IIIT,LITTLE SCHOLRS ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+94,Female,Male,apolitical,Hindi,Graduated,single,Hindu,Mumbai,R,ESWARAMA SAI GURUKUL,
+95,Male,Female,apolitical,Hindi,,single,Hindu,Bangalore, Ableton Live Suite,IIIT,SNOWDROPS ACADEMY,
+96,Male,Female,,Hindi,Bought Vehicle,single,Hindu,Delhi,Adobe Creative Suite,IIIT,SWARSWATI BAL VIDHALAYA,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+97,,Female,right,Hindi,Bought Vehicle,,,Delhi, Google Analytics,LITTLE KIDS ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+98,,Female,right,Hindi,New Job,,Other,Delhi,Frequency analysis,IIIT,CHILDREN PREPARATORY (PVT,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+99,Female,Male,left,,Started Studying at IIIT Delhi,single,Other,Bangalore,SEM Marketing,CHILDRENS WORLD ACADEMY,,
+100,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Mumbai,,IIIT,ROSHAN MEMORIAL ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen",
+101,Female,Male,left,English,Started Studying at IIIT Delhi,single,Hindu,Delhi, Google Analytics,SAI GURUKUL ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+102,Female,,,Hindi,Bought Vehicle,single,Other,Delhi,Mathematics ,IIIT,GEN NEXT ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+103,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, Google Search Console Operator,LITTLE STARS ACADEMY,"Hope never abandons you, you abandon it. George Weinberg"
+104,,Female,right,,Started Studying at IIIT Delhi,single,Hindu,Bangalore,C#,RAINBOW ACADEMY (PVT),
+105,Female,Male,right,,,single,,Bangalore, Ableton Live Suite,IIIT,HOSSANA ENGLISH SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+106,Female,Male,,English,Graduated,,Other,Delhi, Google Search Console Operator,GYAN KUNJA (PVT),"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+107,Female,,right,Hindi,New Job,single,Other,Delhi, C++,GREEN FILED ACADEMY (PVT),
+108,Female,Male,apolitical,English,Bought Vehicle,single,Hindu,Delhi,Mathematics ,GREEN VALLEY ACADEMEY,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+109,Female,Male,,,Graduated,single,Other,Delhi, C++,ST.XAVIERS SCHOOL,,
+110,Female,Male,right,English,New Job,single,Hindu,Delhi, Google Search Console Operator,IIIT,JUBILANT SCHOOL,,
+111,Female,Male,right,Hindi,New Job,single,,Mumbai,Frequency analysis,MANJUSHREE ENGLISH SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+112,Male,Female,left,English,Graduated,single,Hindu,Bangalore,Mathematics ,DAFFODILS HOME,"Hope never abandons you, you abandon it. George Weinberg",
+113,Female,Male,right,Hindi,New Job,single,,Mumbai,,MANGAN PUBLIC SCHOOL,,
+114,,,apolitical,Hindi,New Job,single,,Delhi, Google Analytics,INDRAKIL SARASWATI VIDHALAYA,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+115,,,left,English,,single,Hindu,Delhi,Java,SARASWATI VIDYA NIKETAN,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+116,Female,Male,left,Hindi,Bought Vehicle,,Hindu,Bangalore, Google Analytics,DEFFODILS ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen",
+117,Female,Male,right,English,Started Studying at IIIT Delhi,single,,Bangalore, Ableton Live Suite,EAST POINT ENGLISH SCHOOL,,
+118,Male,Female,right,English,,single,Other,Delhi,C#,DREAM LAND ACADEMY (PVT,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+119,,Female,,English,Started Studying at IIIT Delhi,single,Hindu,Delhi, Ableton Live Suite,LITTLE ANGEL SCHOOL,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+120,,Female,,Hindi,Graduated,single,Hindu,Delhi,C#,IIIT,FUTURE BRIGHTER ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+121,Female,Male,,English,Bought Vehicle,single,,, Scala,IIIT,KYI-DE-KHANG SEC.SCHOOL,
+122,Female,Male,left,Hindi,Graduated,single,,Delhi, Google Analytics,IIIT,DE NOBILE ACADEMY (PVT),
+123,Female,Male,right,English,New Job,single,Other,Delhi, Scala,IIIT,I E C MISSION PRIMARY SCHOOL RIMBI,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+124,Female,Male,apolitical,English,,,,Hyderabad,R,IIIT,MODEL ENGLISH SCHOOL,,
+125,Male,,apolitical,Hindi,Started Studying at IIIT Delhi,,,Delhi,Adobe Creative Suite,IIIT,DEMAZONG ENGLISH ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+126,Female,Male,,Hindi,Graduated,single,,Delhi, ERP systems,,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+127,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Mumbai, Google Analytics,ST.JOSEPH SCHOOL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+128,Female,Male,,,Graduated,single,Hindu,Hyderabad,SEM Marketing,IIIT,PADMA ODZER CHOLING,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+129,,Other,left,English,New Job,single,Hindu,Delhi,Adobe Creative Suite,MT OLIVES ENGLISH SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+130,Female,Male,,English,New Job,,,Delhi,SEM Marketing,IIIT,ST PETERS SCHOOL,The only place you find success before work is in the dictionary. May V Smith,
+131,Female,Male,,Hindi,,single,,Delhi,Mathematics ,IIIT,SARASWATI VIDYA NIKETAN,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+132,Female,,apolitical,,,,Hindu,Mumbai, CRMs,ST MARYS SCHOOL,
+133,Male,Female,apolitical,English,Bought Vehicle,,,Delhi,C#,IIIT,SARASWATI VIDYA NIKETAN,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+134,Female,Male,right,Hindi,Bought Vehicle,single,Other,Delhi,Java,IIIT,KHATEK PEMA CHOLING MONASTIC SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+135,Female,Male,,Hindi,New Job,single,,Delhi,C#,DIVYA JYOTI SCHOOL (P),There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+136,Male,Female,,,,,Other,Bangalore,Java,VIDHYA SAGAR GAYNPEATH TATHANG,,
+137,Male,Female,left,Hindi,,,Hindu,Delhi, Ableton Live Suite,GREEN FIELD JUNIOR HIGH SCHOOL,
+138,Male,Male,apolitical,English,New Job,,Hindu,Delhi,Adobe Creative Suite,IIIT,SOUTH POINT ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+139,Female,Male,right,English,New Job,,Hindu,,Mathematics ,KIDS WORLD (PVT),,
+140,Male,Female,,English,Bought Vehicle,,Hindu,Delhi,C#,IIIT,Chandra Kumari Chettri Memorial School,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+141,Female,Male,left,English,New Job,,,Bangalore, Google Analytics,SERNYA SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+142,,Female,,English,New Job,,,, ERP systems,IIIT,SANGAM ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+143,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, C++,LITTLE BUD,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+144,Male,,left,Hindi,Graduated,single,Hindu,Mumbai,R,GYAN PRADAN ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+145,Male,Female,left,Hindi,New Job,,,Delhi,Adobe Creative Suite,LORETO CONVENT SCHOOL,
+146,Female,Male,apolitical,Hindi,New Job,single,Hindu,Delhi,Frequency analysis,AROMA ACADEMY,,
+147,,Male,,English,,,,Delhi, Google Search Console Operator,LITTLE BELLS (PVT),Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+148,Female,Male,left,Hindi,Graduated,single,Hindu,Hyderabad, ERP systems,IIIT,ANNES HOUSE NUSERY,,
+149,Female,Male,right,English,Graduated,single,Hindu,Bangalore, Google Search Console Operator,IIIT,LELIUM ACADEMY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+150,Female,Male,right,Hindi,,single,,Delhi,SEM Marketing,IIIT,MINI LAND PUBLIC SCHOOL,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+151,Female,Male,apolitical,English,Bought Vehicle,single,Other,Mumbai, C++,IIIT,ADONAI HOMES,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+152,Female,Male,left,,Started Studying at IIIT Delhi,single,Other,Mumbai,C#,IIIT,HOLY CROSS (PVT),Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+153,,Other,apolitical,English,Started Studying at IIIT Delhi,single,,Mumbai, ERP systems,INDIRA MEMORIAL ACADEMY,
+154,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,Other,Bangalore,Java,IIIT,ST. JOSEPH,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+155,Female,,left,Hindi,,single,Hindu,Delhi,R,IIIT,ST.PAUL JHS,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+156,Female,Male,,English,Started Studying at IIIT Delhi,single,Hindu,Delhi, ERP systems,IIIT,BAL JYOTI ACADEMY,
+157,Female,Male,,English,New Job,single,Hindu,Hyderabad, Google Analytics,IIIT,LIFE VISION ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+158,Male,Female,left,Hindi,Graduated,,Other,Mumbai, Ableton Live Suite,TINY PEARLS SCHOOL,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+159,Female,Male,,Hindi,,,Hindu,Delhi,C#,MANGAN PUBLIC SCHOOL,"Hope never abandons you, you abandon it. George Weinberg"
+160,Female,Male,left,Hindi,Graduated,single,Hindu,Bangalore,Mathematics ,IIIT,SARASWATI VIDYA NIKETAN,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+161,Female,Male,,,,single,,Delhi, C++,ANTASHKARAN CHILD ACHADAMY,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+162,Female,Male,left,Hindi,Graduated,single,Hindu,Delhi,C#,ST. JOHNS JHS SCHOOL,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+163,Female,Male,,,Started Studying at IIIT Delhi,single,Hindu,Bangalore,SEM Marketing,IIIT,DE NOBILE ACADEMY (PVT),"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+164,Male,Female,,Hindi,Graduated,single,Hindu,Delhi, Google Analytics,FUTURE BRIGHTER ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+165,Female,Male,,,Started Studying at IIIT Delhi,single,Hindu,Hyderabad,C#,GOD WIN ENG SCHOOL (PVT),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+166,Male,Female,,English,,single,,Mumbai,SEM Marketing,IIIT,P.NM SCHOOL (PVT),Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+167,Male,Female,right,,Bought Vehicle,single,Hindu,Delhi, Google Analytics,IIIT,GOOD SHEPHERD ENGLISH SCHOOL,,
+168,Female,Male,right,Hindi,,,Other,,SEM Marketing,CANAAN SCHOOL,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+169,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Delhi,Java,IIIT,LORETO CONVENT SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+170,Female,,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,, Google Analytics,IIIT,SHANTI MEMORIAL ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+171,Female,Male,left,Hindi,New Job,single,,Delhi,R,IIIT,SIKKIM HIMALAYAN ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+172,Male,Female,apolitical,Hindi,Bought Vehicle,,Hindu,Bangalore,Adobe Creative Suite,IIIT,SARASWATI SISHU NIKETAN,
+173,,,left,English,Bought Vehicle,,Hindu,Delhi,Frequency analysis,IIIT,PLAY AND LEARN NURSERY SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+174,Female,Male,right,Hindi,Bought Vehicle,,,Delhi, Google Search Console Operator,LITTLE SCHOLRS ACADEMY,
+175,Female,Male,,Hindi,Bought Vehicle,,Hindu,Delhi,Frequency analysis,SUNRISE MODEL,,
+176,Male,Female,,Hindi,,single,Hindu,Delhi, C++,IIIT,RISING NURSERY ACADEMY (PVT),,
+177,Male,Female,apolitical,English,New Job,single,Hindu,Bangalore,,IIIT,GREEN VALE ACADEMY,,
+178,Male,Female,right,English,Started Studying at IIIT Delhi,single,,Hyderabad,,TINY PEARLS SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+179,,,left,Hindi,Graduated,single,Hindu,Hyderabad,SEM Marketing,MATRI ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+180,Male,Female,,Hindi,New Job,single,Other,Delhi, Google Analytics,IIIT,PEMA TSEL ACADEMY,,
+181,,Male,,Hindi,Bought Vehicle,,,Hyderabad,R,GENERATION NEXT ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+182,Male,Female,,English,Graduated,,Other,Delhi, C++,Rainbow Academy,
+183,Female,Male,,English,Bought Vehicle,single,Hindu,Delhi,Mathematics ,IIIT,KEN ENGLISH SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+184,Male,Female,,Hindi,New Job,single,Hindu,Delhi, CRMs,IIIT,RRAGHUNANDA SAPKOTA MEMORIAL SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+185,Female,Male,apolitical,English,Graduated,single,Hindu,, CRMs,IIIT,HIMALAYAN RADIANT ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+186,,Male,apolitical,Hindi,Graduated,,Hindu,Delhi, Ableton Live Suite,IIIT,ROSHAN MEMORIAL ACADEMY,
+187,Female,Male,apolitical,Hindi,Graduated,,,Delhi, Scala,IIIT,KIDDIES CORNER,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+188,Female,,apolitical,Hindi,,single,Hindu,Hyderabad,,PADMA ODZER CHOLING,,
+189,,Male,apolitical,English,New Job,single,Hindu,, ERP systems,SKYLARK ACADEMY,,
+190,Male,Female,,Hindi,Bought Vehicle,single,,Delhi,Adobe Creative Suite,IIIT,LELIUM ACADEMY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+191,Female,Female,right,English,Started Studying at IIIT Delhi,single,Other,Mumbai,Java,IIIT,MOUNT K2 ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+192,Male,Female,left,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi,SEM Marketing,CANARY BIRD ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+193,Male,Female,left,English,,single,,Delhi, CRMs,MAYAL ENG SCHOOL (PVT),"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+194,Female,,apolitical,,,single,Hindu,Mumbai,Frequency analysis,FUTURE BRIGHTER ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+195,Male,Female,,Hindi,Bought Vehicle,single,Hindu,Bangalore,C#,IIIT,NEW WISDOM ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+196,Male,Female,left,English,Bought Vehicle,single,Hindu,Hyderabad, Google Analytics,IIIT,MT. EVEREST SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+197,Female,Male,left,Hindi,Bought Vehicle,,Hindu,Delhi, Google Analytics,IIIT,ST MARYS SCHOOL,
+198,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Bangalore, Google Search Console Operator,NEW VISION ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+199,Male,Female,apolitical,Hindi,,single,Hindu,Mumbai,C#,BLOOMING BUDS ACADEMY,,
+200,Male,Female,apolitical,Hindi,Bought Vehicle,,Hindu,Delhi,R,CHILDRENS WORLD ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+201,,Male,,English,,single,Other,Bangalore, ERP systems,IIIT,P.M.M. U. SMART ACADEMY,,
+202,,Male,left,English,Graduated,single,Other,Delhi, Scala,IIIT,HOLY CROSS (PVT),,
+203,Female,Male,right,,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Scala,MOON LIGHT SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+204,Male,Female,apolitical,Hindi,Bought Vehicle,single,Hindu,Delhi,SEM Marketing,NEW LIGHT ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+205,Female,,apolitical,English,,,Hindu,Delhi,Mathematics ,PRASHANT VIDYA MANDIR SS(PVT),The only place you find success before work is in the dictionary. May V Smith
+206,,Other,left,Hindi,Graduated,,Other,Bangalore,C#,NORTH SIKKIM ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+207,Male,Male,left,,,single,Other,Bangalore,Adobe Creative Suite,WISDOM LAKE,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+208,Male,Female,left,Hindi,Bought Vehicle,single,Other,Mumbai,,TSUGLAGKHANG MONASTIC SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+209,,Male,apolitical,,New Job,,Hindu,Hyderabad,SEM Marketing,HIMALAYAN SARASWATI VIDYALAYA,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+210,Female,Male,left,Hindi,Bought Vehicle,single,,Delhi,SEM Marketing,SOUTHERN LIGHTS ACADEMY,
+211,Female,Male,,,Bought Vehicle,single,Hindu,Delhi,Java,SUNRISE SCHOOL (PVT),
+212,Female,Male,left,English,Graduated,single,Hindu,Hyderabad,R,IIIT,BETHANY EDUCATIONAL INSTITUTIO,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+213,Male,Female,right,,,,Hindu,Bangalore,R,IIIT,SAIPARTI VIDYA MANDIR,
+214,Female,Male,apolitical,Hindi,,single,,Delhi,Frequency analysis,IIIT,GENERATION NEXT ACADEMY,
+215,Female,Male,right,Hindi,Graduated,single,,Delhi,Frequency analysis,IIIT,EAST POINT SS (PVT),
+216,Male,Female,apolitical,,New Job,single,Hindu,Mumbai,Adobe Creative Suite,IIIT,MANJUSRI PUBLIC SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+217,Male,,right,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore, Ableton Live Suite,IIIT,TINY BUDS ACADEMY,,
+218,Female,Male,left,Hindi,Graduated,single,Other,Delhi, Ableton Live Suite,INDRAKIL SARASWATI VIDHALAYA,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+219,,Female,left,English,Started Studying at IIIT Delhi,single,,Delhi,Frequency analysis,KALEZ VALEY ENGLISH SCHOOL,,
+220,Male,Female,left,,Graduated,,Hindu,Delhi, CRMs,IIIT,MATRI ACADEMY,
+221,Male,Female,,English,Bought Vehicle,single,Hindu,Mumbai, Ableton Live Suite,IIIT,HIMALAYAN BAPTISE SCHOOL,"Hope never abandons you, you abandon it. George Weinberg",
+222,,,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi,Mathematics ,KEN ENGLISH SCHOOL,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+223,,Female,left,,Bought Vehicle,,,Delhi,,IIIT,MT. PENDAM ACADEMY,
+224,Male,Female,left,Hindi,Started Studying at IIIT Delhi,,Other,Bangalore,Frequency analysis,IIIT,GENERATION NEXT ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+225,Male,Female,,,New Job,,Other,Bangalore, CRMs,KING GEORGE ACADEMY,,
+226,,Female,right,,New Job,,Hindu,Delhi,R,HIMALAYAN BAPTISE SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+227,Female,Male,left,Hindi,Bought Vehicle,single,Other,Delhi,Frequency analysis,IIIT,WISE TEMPLE ACADEMY,,
+228,Male,Female,apolitical,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, CRMs,IIIT,ST.TERESAS SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+229,,,right,,,,Other,Bangalore,Adobe Creative Suite,KIDDIES CORNER,
+230,Male,Female,right,Hindi,Bought Vehicle,single,Hindu,Delhi, CRMs,SARASWATI SISHU VIDYALAYA,It took me a long time not to judge myself through someone elses eyes. Sally Field
+231,Male,Female,,Hindi,Graduated,single,Hindu,Bangalore,Adobe Creative Suite,IIIT,MOUNT PANDIM PRESTINE ACADEMY,,
+232,Male,Female,right,English,Bought Vehicle,single,Other,Hyderabad, C++,IIIT,MOUNT K2 ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+233,Female,Male,left,English,Graduated,single,Other,Delhi, CRMs,RAPHJORE ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+234,Female,Male,,Hindi,Bought Vehicle,single,Hindu,Delhi, Scala,IIIT,GREAT HEIGHT ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+235,Female,Male,left,Hindi,Bought Vehicle,single,Other,,Mathematics ,SAI GURUKUL ACADEMY,
+236,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Mumbai,Java,IIIT,ST MARYS SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+237,,Male,right,English,Started Studying at IIIT Delhi,single,Hindu,Delhi,Java,IIIT,HOLY CROSS (PVT),
+238,,Other,apolitical,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi,Frequency analysis,IIIT,DOLPHIN ACADEMY,"Hope never abandons you, you abandon it. George Weinberg"
+239,,Male,right,Hindi,Graduated,,Other,Delhi,C#,NOBLE ENGLISH SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+240,Male,Female,left,Hindi,Bought Vehicle,single,Other,Mumbai,,ST .PATRICK,"Hope never abandons you, you abandon it. George Weinberg",
+241,Female,Female,,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore,R,IIIT,DREAMLAND ACADEMY,
+242,,Male,left,Hindi,New Job,single,,Delhi,R,IIIT,BLOOM ACADEMY,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+243,Female,Male,left,English,Graduated,single,Other,Hyderabad,C#,IIIT,NORTH POINT SCHOOL,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+244,Male,Female,apolitical,English,New Job,single,,Bangalore, Google Analytics,IIIT,DE NOBILE ACADEMY (PVT),
+245,,,,Hindi,Graduated,single,Hindu,Bangalore,,KIDDIES CORNER,,
+246,,Other,left,Hindi,,single,Hindu,Bangalore,SEM Marketing,IIIT,Hansraj Academy,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+247,Male,Female,left,English,Started Studying at IIIT Delhi,single,Other,Hyderabad, Scala,HOLYCROSS ENGLISH SCHOOL,
+248,,Female,left,English,Started Studying at IIIT Delhi,,Hindu,,Adobe Creative Suite,IIIT,ARCHIGOS PREPARATORY ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+249,,,,English,New Job,single,Hindu,Delhi, Ableton Live Suite,IIIT,ROSHAN MEMORIAL ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+250,Male,Female,,English,New Job,single,Hindu,Bangalore, Google Analytics,KANCHANJUNGA ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+251,Male,Female,left,Hindi,New Job,single,,Delhi,,DAFFODILS HOME,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+252,,Other,left,English,Started Studying at IIIT Delhi,,Hindu,Delhi,Mathematics ,IIIT,MOUNT KANCHAN ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+253,Male,Female,apolitical,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Ableton Live Suite,ANUGRAH PS MANPUR,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+254,,Female,,,Started Studying at IIIT Delhi,,Hindu,Bangalore,,VIDHYA SAGAR JUNIOR HIGH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+255,Female,Male,right,Hindi,,,Hindu,Bangalore, Scala,IIIT,HOSSANA ENGLISH SCHOOL,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+256,Male,Female,left,Hindi,,single,Hindu,,Java,IIIT,SNOWDROPS ACADEMY,,
+257,,Other,left,English,Graduated,,Other,Delhi, Google Analytics,IIIT,I E C MISSION PRIMARY SCHOOL RIMBI,,
+258,Female,Male,,English,New Job,single,Hindu,Delhi, CRMs,KIDDIES CORNER,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+259,Female,,,Hindi,Started Studying at IIIT Delhi,single,Other,Bangalore,C#,IIIT,PADMA ODZER CHOLING,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+260,Male,Female,apolitical,,Graduated,,Hindu,Hyderabad,Mathematics ,KALEZ VALEY ENGLISH SCHOOL,
+261,Male,Female,left,Hindi,,single,Hindu,Delhi,Mathematics ,GYANUDAYA ACADEMY MEMDOGOAN,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+262,,,right,English,New Job,single,,Bangalore,Adobe Creative Suite,ADARSH VIDHYA MANDIR,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+263,Male,Female,left,English,New Job,single,Hindu,, CRMs,VIDHYA SAGAR GAYNPEATH TATHANG,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+264,,Male,apolitical,English,Started Studying at IIIT Delhi,,Other,Delhi,,TAKTSE INTERNATIONAL SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+265,Female,Male,,Hindi,New Job,single,Hindu,Hyderabad,,IIIT,DE NOBILE ACADEMY (PVT),Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+266,Female,Male,apolitical,English,New Job,single,Other,Delhi, ERP systems,IIIT,DIVYA JYOTI SCHOOL (P),There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+267,,,,Hindi,Started Studying at IIIT Delhi,,Other,Mumbai,Java,IIIT,BOSKO ENG SCHOOL (PVT),Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+268,Male,Female,left,Hindi,New Job,single,,Mumbai,,IIIT,HIMALAYAN ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+269,Male,Female,left,Hindi,Graduated,,,, Scala,IIIT,RAINBOW ACADEMY (PVT),"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+270,Male,Female,left,Hindi,Bought Vehicle,,,Mumbai, Google Analytics,EDEN GARDEN SCHOOL (P),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+271,Male,Female,left,English,Graduated,single,Other,Mumbai,Mathematics ,IIIT,GREEN LIGHT ACHADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+272,Male,Female,right,,Bought Vehicle,single,Hindu,Delhi,Frequency analysis,IIIT,HOLY FAITH ENGLISH SCHOOL,
+273,Female,Male,left,Hindi,,single,,Delhi, C++,IIIT,ST.JOSEPH SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+274,,Female,right,English,Started Studying at IIIT Delhi,single,,Delhi,Frequency analysis,CHILDRENS WORLD ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+275,,,left,English,Graduated,single,Hindu,Bangalore, CRMs,IIIT,KING GEORGE ACADEMY,
+276,Female,Male,right,Hindi,Started Studying at IIIT Delhi,single,,Delhi, Scala,IIIT,ST.PETER ENGLISH SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+277,Female,Male,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi,C#,IIIT,HANSAVAHINI SISHU MANDIR AMBA,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+278,,Male,apolitical,Hindi,Bought Vehicle,,Hindu,, Google Analytics,IIIT,SHANTI MEMORIAL ACADEMY,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+279,Female,,,English,,single,,Bangalore, C++,IIIT,TINY TOTS SCHOOL (P),"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+280,Male,Female,,English,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Google Analytics,IIIT,NEW STEPS ACADEMY,,
+281,Female,,right,,Bought Vehicle,single,Hindu,,Frequency analysis,IIIT,LIGHT OF LIFE ACADEMY,
+282,Male,Female,left,Hindi,Graduated,,Hindu,Hyderabad,Mathematics ,IIIT,NABIL`S MEMORIAL SECONDARY SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+283,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Hyderabad, Ableton Live Suite,SARASWATI SISHU VIDHLAYA,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+284,Female,Male,left,Hindi,Graduated,,Hindu,Bangalore,Java,IIIT,ANNES HOUSE NUSERY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+285,Male,Female,,,Bought Vehicle,,,Mumbai,SEM Marketing,NEW LIGHT ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+286,,,left,English,Started Studying at IIIT Delhi,single,Hindu,Mumbai, ERP systems,MARIGOLD ACADEMY MALBASEY,
+287,Female,Male,right,English,Started Studying at IIIT Delhi,single,Other,Bangalore, ERP systems,IIIT,ANNES HOUSE NURSUARY SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+288,,,left,Hindi,Graduated,single,Other,,Frequency analysis,IIIT,SHARON VALLEY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+289,Male,,,Hindi,Graduated,,Other,Delhi, C++,IIIT,WESTERN MODERN ENGLISH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+290,Male,Female,right,Hindi,,single,Hindu,Bangalore,Java,IIIT,KID FOUNDATION ENGLISH SCHOOL,The only place you find success before work is in the dictionary. May V Smith,
+291,,,left,Hindi,Bought Vehicle,single,Hindu,, Google Search Console Operator,LITTLE STARS ACADEMY,
+292,Female,Male,,Hindi,Bought Vehicle,single,Hindu,Bangalore, C++,IIIT,MINI LAND PUBLIC SCHOOL,,
+293,Female,Male,,English,Started Studying at IIIT Delhi,single,,Mumbai, C++,ANNES HOUSE NURSUARY SCHOOL,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+294,Male,Female,left,Hindi,Graduated,single,Hindu,Delhi,Mathematics ,IIIT,BOSKO ENG SCHOOL (PVT),
+295,Female,Male,,Hindi,Bought Vehicle,single,Other,Bangalore,,NOBLE ENGLISH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+296,Female,Male,,Hindi,Started Studying at IIIT Delhi,,Other,Delhi, ERP systems,ST .PATRICK,
+297,Female,,apolitical,English,Bought Vehicle,single,,Hyderabad,Java,IIIT,NEW HORIZON ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+298,,Male,right,,New Job,single,Other,Bangalore,,ST.PAUL JHS,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+299,,,left,Hindi,,,Hindu,Delhi, Scala,IIIT,SOUTH POINT ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+300,Female,Female,right,English,New Job,single,,Delhi, C++,IIIT,HIMALAYAN RISING ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+301,,Female,right,,Graduated,single,,Bangalore,R,IIIT,DAFFODILS HOME,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+302,Female,Male,apolitical,,Bought Vehicle,,Other,, Ableton Live Suite,BAPTIST ENG . SCHOOL (PVT),"Hope never abandons you, you abandon it. George Weinberg"
+303,Female,Male,left,English,Bought Vehicle,single,Other,Delhi,Java,KUSH HANG MEMORIAL ENGLISH SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+304,Male,Female,,Hindi,New Job,,Hindu,, Ableton Live Suite,ST MARYS SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+305,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Google Analytics,IIIT,EUREKA RESIDENTIAL SCHOOL BRANCH II,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+306,Male,Female,,Hindi,,single,,Delhi, Scala,IIIT,MOUNT PANDIM PRESTINE ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+307,Male,Female,apolitical,Hindi,Bought Vehicle,single,Hindu,Mumbai, ERP systems,GREENVALE ACADEMY,,
+308,Female,Male,,Hindi,Graduated,,,Mumbai, C++,IIIT,POLE STAR ENGLISH SCHOOL HEE,,
+309,Female,,right,English,Started Studying at IIIT Delhi,,,Delhi,Mathematics ,SIGALILA ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+310,Female,Male,,Hindi,Bought Vehicle,single,Hindu,Mumbai, Google Analytics,IIIT,VENUS ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+311,Female,Male,apolitical,,Graduated,single,,Delhi, C++,IIIT,NEW TULIPS KINDERGARDEN,
+312,Male,Female,left,Hindi,,,Other,Delhi, CRMs,TINY TOTS SCHOOL (P),"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+313,Male,Female,left,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Scala,GREENFINCH SCHOOL,,
+314,,Other,,Hindi,New Job,,Hindu,Mumbai,R,IIIT,SOUTH PIONT ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+315,,Male,apolitical,English,,,Other,Bangalore,R,IIIT,VIDHYA SAGAR GAYNPEATH TATHANG,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+316,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi,,IIIT,HIMALAYAN SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+317,Male,Female,right,Hindi,Bought Vehicle,,Hindu,Hyderabad, C++,LILLYFIELD ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+318,Male,Female,,Hindi,Graduated,,Other,Mumbai, Scala,ST.MARRY ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+319,Male,Female,,Hindi,New Job,single,Hindu,Bangalore, Ableton Live Suite,SARASWATI VIDYA NIKETAN,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+320,Male,Female,,English,,single,Other,Bangalore, C++,KALIKA SANSKRIT VIDHYALAYA,,
+321,Male,Female,apolitical,English,Bought Vehicle,,Other,Bangalore,R,ST PAUL SCHOOL,,
+322,Male,Female,apolitical,Hindi,Bought Vehicle,,,Hyderabad,Adobe Creative Suite,IIIT,SIKKIM HOMES ACADEMY,
+323,Female,Male,,Hindi,New Job,single,,Bangalore, CRMs,IIIT,ST.TERESAS SCHOOL,,
+324,Male,Female,right,Hindi,Graduated,single,Hindu,Bangalore,Mathematics ,DAUGHTER OF THE CROSS CONVENT SCHOOL,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+325,,Female,,English,Bought Vehicle,single,,,R,IIIT,RADIANT STARS ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+326,,,apolitical,,New Job,single,Hindu,Delhi,Frequency analysis,WESTERN MODERN SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+327,Male,Female,apolitical,Hindi,New Job,single,Other,Bangalore,Java,ST MARY SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+328,Female,Male,left,English,,,,Delhi, Scala,SEVEN HILLS SCHOOL,
+329,Male,,,,,single,,Delhi, Scala,RAPHJORE ACADEMY,,
+330,Male,Female,apolitical,,New Job,single,Hindu,Delhi,C#,IIIT,Rainbow Academy,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+331,Male,Female,right,Hindi,New Job,single,Other,,SEM Marketing,NEW VISION ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+332,Male,Female,,,Bought Vehicle,,Hindu,Delhi,,IIIT,HIMALAYAN SCHOOL,
+333,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,Hindu,Hyderabad, Google Search Console Operator,SARASWATI VIDYA NIKETAN,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+334,Female,Male,left,Hindi,Bought Vehicle,single,,Delhi,C#,CHILDRENS WORLD ACADEMY,,
+335,Female,Male,apolitical,Hindi,Graduated,,Hindu,Bangalore,R,Rainbow Academy,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+336,,Other,apolitical,Hindi,Graduated,single,Other,,Adobe Creative Suite,IIIT,KANCHANJUNGA ACADEMY,
+337,Male,Female,apolitical,English,Started Studying at IIIT Delhi,,Hindu,Mumbai, Google Analytics,IIIT,NEW STEPS ACADEMY,
+338,Male,Female,right,English,New Job,,Other,Delhi, CRMs,IIIT,CANAAN SCHOOL,,
+339,,,right,Hindi,Bought Vehicle,single,Hindu,Delhi,Adobe Creative Suite,IIIT,RAPHJORE ACADEMY,,
+340,Male,Female,apolitical,Hindi,Bought Vehicle,,Hindu,Bangalore,Frequency analysis,IIIT,RANGUTHANG HEDH-ZI-BAH,The only place you find success before work is in the dictionary. May V Smith,
+341,Male,Female,apolitical,English,Graduated,single,Hindu,Delhi, C++,ENLIGHTEN EDU.INST.,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+342,,,apolitical,Hindi,Graduated,single,Other,,SEM Marketing,RAINBOW ACADEMY (PVT),,
+343,Female,Male,apolitical,English,New Job,,Hindu,Delhi, Ableton Live Suite,GREEN VALE ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+344,Female,Male,left,English,,single,Hindu,Delhi,Adobe Creative Suite,IIIT,SERNYA SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+345,Male,Female,,Hindi,New Job,single,,Delhi,C#,IIIT,BAPTIST ENGLISH SCHOOL,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+346,Male,,left,Hindi,New Job,,Hindu,Delhi, Scala,IIIT,JOYBELLS (PVT),The only place you find success before work is in the dictionary. May V Smith
+347,Male,Female,,English,,single,Hindu,Delhi,R,IIIT,VIDHYA SAGAR ACADEMY LEGSHIP,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+348,Male,Female,,Hindi,,,Hindu,Delhi,C#,LITTLE ANGEL ENGLISH SCHOOL,
+349,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,,Java,IIIT,"MODEL ENGLISH HOUSE,RESHI","Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+350,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,, ERP systems,IIIT,SUNSHINE ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+351,,Male,left,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi,C#,WESTERN MODERN ENGLISH SCHOOL,"Hope never abandons you, you abandon it. George Weinberg",
+352,Male,Female,right,,New Job,,Hindu,Mumbai,C#,IIIT,ST.PAUL JHS,
+353,Female,,right,Hindi,New Job,single,Hindu,, Google Search Console Operator,NAMCHI PUBLIC SCHOOL,,
+354,Male,Female,left,English,New Job,single,Hindu,Delhi, Ableton Live Suite,IIIT,AROMA ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+355,Male,Female,left,Hindi,,,Hindu,Delhi, Google Analytics,IIIT,ENGLIGHTENED ACADEMY,
+356,Female,Male,right,English,Bought Vehicle,single,,, C++,IIIT,INDRIA GHANDHI,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+357,,Other,right,Hindi,Graduated,single,Hindu,Hyderabad,Mathematics ,JUBILANT PVT SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+358,Female,Male,apolitical,Hindi,Graduated,single,Other,Hyderabad,SEM Marketing,IIIT,ENLIGHTEN ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+359,Female,Male,right,Hindi,Graduated,single,Other,Delhi,Mathematics ,GYANUDAYA ACADEMY MEMDOGOAN,,
+360,Male,Female,apolitical,English,,single,Hindu,Delhi,R,IIIT,VIDYA BHARATI NAYABAZAR,,
+361,Male,Female,left,English,New Job,single,Hindu,Mumbai,Java,IIIT,ANGLES ENGLISH SCHOOL,"Hope never abandons you, you abandon it. George Weinberg",
+362,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Mumbai,Frequency analysis,HANSAVAHINI SISHU MANDIR AMBA,,
+363,Male,Female,,Hindi,Bought Vehicle,,Hindu,Bangalore, ERP systems,IIIT,NABIL`S MEMORIAL SECONDARY SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+364,,Other,,English,Graduated,single,,Hyderabad, ERP systems,IIIT,SARASWATI VIDYALAYA KYONGSHA,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+365,Female,Male,left,Hindi,New Job,,Hindu,Bangalore, Google Search Console Operator,HAPPY HOURS (PVT),"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+366,Female,Male,,Hindi,Started Studying at IIIT Delhi,,Other,, Ableton Live Suite,LITTLE FLOWER NURSERY SCHOOL,The only place you find success before work is in the dictionary. May V Smith,
+367,Male,Female,,,Started Studying at IIIT Delhi,single,Hindu,Delhi, Ableton Live Suite,PARSURAM MEMORIAL ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+368,Male,,,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Scala,FUTURE STAR ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+369,Female,Male,left,Hindi,Graduated,single,Hindu,Hyderabad, CRMs,ST. JOSHEP SS,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+370,,Other,left,Hindi,Started Studying at IIIT Delhi,single,,Delhi,,RISING STAR (PVT),
+371,Female,Male,left,,Graduated,single,,Delhi,C#,MOTHER TERESA MEMORIAL SCHOOL,
+372,,Female,right,Hindi,New Job,,Hindu,, Google Search Console Operator,IIIT,ARCHIGOS PREPARATORY ACADEMY,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+373,Female,Male,,Hindi,Started Studying at IIIT Delhi,,,Bangalore, CRMs,NORTH SIKKIM ACADEMY,"Hope never abandons you, you abandon it. George Weinberg",
+374,Female,Male,left,Hindi,,,Hindu,Delhi, CRMs,IIIT,HAPPY HOURS (PVT),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+375,Female,Male,,,,single,Hindu,Hyderabad,Mathematics ,IIIT,ROYAL ACADEMY,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+376,Male,Female,left,English,,single,Hindu,Delhi,SEM Marketing,IIIT,CAROL ACADEMY,,
+377,Male,,left,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi, CRMs,IIIT,LITTLE SCHOLRS ACADEMY,
+378,Female,,,Hindi,New Job,single,Hindu,Delhi,Java,LELIUM ACADEMY SCHOOL,,
+379,,,apolitical,English,,single,Hindu,, Google Search Console Operator,IIIT,MARIGOLD ACADEMY MALBASEY,
+380,Male,Female,left,,New Job,single,Other,Delhi,Java,ROCK VALE ACADEMY,,
+381,Female,Male,,English,Started Studying at IIIT Delhi,single,Hindu,Delhi, Scala,IIIT,EVERGREEN ENGLISH SCHOOL,
+382,Male,Female,right,English,New Job,single,Hindu,Delhi, Google Analytics,TINY TOTS SCHOOL (P),Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+383,Male,Female,right,,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Google Analytics,IIIT,Chandra Kumari Chettri Memorial School,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+384,Male,Female,apolitical,English,Graduated,single,Hindu,Bangalore,,STAR LIGHT ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+385,Female,,,Hindi,Started Studying at IIIT Delhi,,,Delhi, ERP systems,IIIT,TASHIDING ENGLISH SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+386,Female,Male,right,,Bought Vehicle,single,Hindu,Mumbai,,BRIGHT CAREER ACHADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+387,,Female,apolitical,Hindi,Bought Vehicle,single,,Hyderabad, Scala,IIIT,LITTLE SCHOLRS ACADEMY,"Hope never abandons you, you abandon it. George Weinberg"
+388,,Female,apolitical,English,Bought Vehicle,single,,Delhi,R,IIIT,LITTLE ANGELS ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+389,Male,Female,right,Hindi,Graduated,single,,Hyderabad, CRMs,PHUSPANJALI VIDHALAYA,
+390,Female,Male,left,Hindi,New Job,,,, C++,BAL JYOTI VIDYA PITH,,
+391,Female,Male,right,Hindi,New Job,single,Other,Mumbai,C#,IIIT,"GYAN JYOTI ACADEMY,BURIAKHOP",There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+392,Female,Male,left,Hindi,New Job,,Hindu,Delhi,R,ROSHAN MEMORIAL ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+393,Male,Female,apolitical,English,Bought Vehicle,single,Hindu,Delhi,Mathematics ,MAYAL KATEN NAMGYALLING ACADEMY SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+394,Female,Male,left,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, Scala,IIIT,WISE TEMPLE ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+395,Female,Male,left,Hindi,Bought Vehicle,single,Hindu,Delhi,,ANSHU ACADEMY,"Hope never abandons you, you abandon it. George Weinberg",
+396,Female,Male,apolitical,Hindi,Graduated,,,,C#,PRASHANT VIDYA MANDIR SS(PVT),,
+397,Male,Female,apolitical,,Started Studying at IIIT Delhi,single,,Delhi,R,IIIT,EAST POINT SCHOOL,,
+398,Male,Female,apolitical,English,Graduated,single,Hindu,Hyderabad, ERP systems,IIIT,SUN SHINE ENGLISH SCHOOL,,
+399,Male,Female,right,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore,,IIIT,KEN ENGLISH SCHOOL,,
+400,Female,Male,,Hindi,Bought Vehicle,single,Hindu,Mumbai, Google Analytics,HIMALAYAN RADIANT ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+401,Male,,right,Hindi,Bought Vehicle,single,Hindu,Mumbai,Mathematics ,GREEN FILED ACADEMY (PVT),,
+402,Female,Male,right,English,Graduated,single,Other,,C#,IIIT,ST.STEVENS SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+403,,Other,apolitical,Hindi,New Job,single,Hindu,Delhi,Java,IIIT,INDRAKIL SARASWATI VIDHALAYA,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+404,Male,Female,apolitical,Hindi,Graduated,single,Hindu,,Java,SHANTI MEMORIAL ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+405,Male,Female,left,,Graduated,,Hindu,Delhi,Mathematics ,IIIT,"MT,PANDIM ACADEMY",The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+406,Male,,,,Graduated,single,Other,Bangalore, Ableton Live Suite,LORD JESUS SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+407,Female,Male,right,,Graduated,,,Hyderabad,Mathematics ,IIIT,GYAN PRADAN ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+408,Female,Male,,Hindi,Graduated,single,,Bangalore,,IIIT,WISDOM VALLEY ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+409,,Male,apolitical,Hindi,New Job,single,Other,Delhi, Scala,MAINUM NURSERY SCHOOL,,
+410,Male,Female,,English,Started Studying at IIIT Delhi,,,Bangalore,C#,KHATEK PEMA CHOLING MONASTIC SCHOOL,"Hope never abandons you, you abandon it. George Weinberg"
+411,,Other,left,English,Bought Vehicle,,Hindu,Hyderabad, Ableton Live Suite,DOLPHIN ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+412,Female,Male,,Hindi,Started Studying at IIIT Delhi,,,Bangalore,,IIIT,JUBILANT PVT SCHOOL,The only place you find success before work is in the dictionary. May V Smith
+413,Male,Female,right,Hindi,Graduated,single,Hindu,Bangalore, Google Search Console Operator,TINY PEARLS SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+414,,Male,apolitical,,New Job,,Other,Delhi, Google Search Console Operator,IIIT,CHILDRENS WORLD ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+415,Female,,apolitical,English,Graduated,single,Hindu,Delhi, CRMs,KID FOUNDATION ENGLISH SCHOOL,,
+416,Female,Male,right,Hindi,,single,,Bangalore,Mathematics ,IIIT,MOUNT PANDIM PRESTINE ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+417,,Other,left,English,New Job,,Other,Mumbai,Frequency analysis,IIIT,SHERAB ODSAL RAIDELLING ACADEMY,
+418,Male,Female,apolitical,,New Job,,Hindu,Bangalore, CRMs,IIIT,DEMAZONG ENGLISH ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+419,Male,Female,,Hindi,,single,Hindu,Delhi, Ableton Live Suite,BETHESDA ACADEMY (PVT),
+420,Female,Male,left,English,,single,Hindu,Delhi,,IIIT,MAYAL LYANG ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+421,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Other,Mumbai,Adobe Creative Suite,IIIT,VINEYARD PRIVATE SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+422,,Male,,English,Started Studying at IIIT Delhi,single,Hindu,Bangalore, CRMs,IIIT,MAINUM NURSERY SCHOOL,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+423,Male,Female,right,,Bought Vehicle,,Hindu,,C#,BETHANY EDUCATIONAL INSTITUTIO,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+424,Male,Female,,Hindi,Graduated,single,Hindu,Mumbai, ERP systems,RRAGHUNANDA SAPKOTA MEMORIAL SCHOOL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+425,Male,Female,,Hindi,,single,,Delhi,C#,IIIT,GREEN VALE LANGANG,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+426,Male,Female,apolitical,Hindi,Started Studying at IIIT Delhi,,Other,Delhi, Ableton Live Suite,IIIT,IVANA MEMORIAL SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+427,Male,Female,right,English,,,Other,Bangalore, CRMs,IIIT,"MODEL ENGLISH HOUSE,RESHI","Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+428,Male,Female,,English,New Job,,Hindu,Hyderabad, Scala,IIIT,MICKEYS INTERNATIONAL SCHOOL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+429,Male,Female,left,,Bought Vehicle,single,Hindu,Delhi, C++,VISION ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+430,Male,Female,apolitical,Hindi,,single,Hindu,Mumbai, CRMs,ST. THOMAS SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+431,Female,Male,,Hindi,Graduated,single,Other,Mumbai,R,ZENITH PUBLIC SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+432,Female,Male,right,,Graduated,,Hindu,, Google Analytics,IIIT,PHUSPANJALI VIDHALAYA,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+433,Male,Female,left,English,Started Studying at IIIT Delhi,,Hindu,Delhi,SEM Marketing,IIIT,"MODEL ENGLISH HOUSE,RESHI",It took me a long time not to judge myself through someone elses eyes. Sally Field
+434,Female,,,Hindi,Graduated,single,Hindu,Delhi,Frequency analysis,IIIT,BAHAI SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+435,Male,Female,,Hindi,Graduated,single,Hindu,Mumbai,Java,PHUSPANJALI VIDHALAYA,,
+436,Female,,,English,Graduated,,,,Java,AGAM SINGH ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+437,,,apolitical,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore,Mathematics ,MODEL ENGLISH SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+438,Male,Female,,English,Started Studying at IIIT Delhi,single,Hindu,Bangalore,SEM Marketing,MARIGOLD ACADAMY POKHARI DARA,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+439,Male,Female,,Hindi,Graduated,single,Other,Hyderabad,SEM Marketing,IIIT,CAROL ACADEMY,,
+440,Female,Male,apolitical,Hindi,Bought Vehicle,,,,R,SAI GURUKUL ACADEMY,
+441,Female,Male,right,Hindi,New Job,,Hindu,Delhi,Mathematics ,MOUNT OLIVES ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+442,Male,Female,right,English,Graduated,single,Other,Delhi,SEM Marketing,IIIT,REPBOM ENGLISH ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field
+443,Female,,left,Hindi,Bought Vehicle,,Hindu,Mumbai, Ableton Live Suite,ST PAUL SCHOOL,
+444,Female,Male,,,Graduated,,Hindu,Delhi,Mathematics ,IIIT,MAGNOLIA ENGLISH SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+445,,Other,left,Hindi,Bought Vehicle,single,Hindu,Delhi,R,IIIT,MOUNT SINAI ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+446,Male,Female,,English,Bought Vehicle,single,,Delhi, Google Search Console Operator,"LITTLE ANGEL ACADEMY, PIPALAY","Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+447,Male,Female,right,Hindi,,single,Hindu,Hyderabad, C++,IIIT,LITTLE STARS ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+448,Male,Female,apolitical,Hindi,Graduated,single,Hindu,Delhi, Google Search Console Operator,GYAN KUNJA (PVT),"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+449,Male,Female,apolitical,English,Graduated,,Other,Bangalore, C++,BLOOMING BUDS ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+450,Female,Male,apolitical,Hindi,,single,Hindu,,C#,IIIT,GYAN PRADAN ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+451,Female,Male,,Hindi,,single,Other,Hyderabad, Google Search Console Operator,NIM VALLEY SCHOOL,,
+452,Male,Male,,Hindi,Graduated,,Hindu,Delhi,Adobe Creative Suite,IIIT,ST. FRANCIS` SCHOOL,,
+453,Male,Female,,English,New Job,single,,, CRMs,IIIT,ST. THOMAS SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+454,Male,Female,right,English,,single,Hindu,Delhi,Adobe Creative Suite,RANGUTHANG HEDH-ZI-BAH,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+455,Male,Female,,Hindi,Bought Vehicle,single,Other,Delhi, CRMs,SHANTI MEMORIAL ACADEMY,,
+456,Male,Female,right,Hindi,New Job,single,Hindu,Delhi, Scala,IIIT,SUNMARG ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+457,Female,Male,,Hindi,Graduated,single,Hindu,Mumbai,SEM Marketing,NEW LIGHT ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+458,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,,Delhi,Adobe Creative Suite,IIIT,PRASHANTI VIDYA GIRI,
+459,Male,Female,left,English,,,Other,Delhi,SEM Marketing,ARCHIGOS PREPARATORY ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+460,Male,Female,right,English,,single,Other,Bangalore,Java,WESTERN MODERN ENGLISH SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+461,,,,Hindi,New Job,single,,Delhi,SEM Marketing,IIIT,VISION ACADEMY,
+462,Female,Male,left,English,Graduated,single,,Bangalore,R,BAL JYOTI VIDYA PITH,The only place you find success before work is in the dictionary. May V Smith
+463,Female,Male,left,Hindi,Started Studying at IIIT Delhi,single,Other,Mumbai, Google Analytics,IIIT,SARASWATI VIDYA NIKETAN,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+464,Female,Male,right,English,Graduated,single,Hindu,Delhi,C#,IIIT,WISDOM ACADEMY SRIBADAM,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+465,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,Hindu,Hyderabad,SEM Marketing,LORD JESUS SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+466,Male,Female,right,Hindi,,single,Hindu,Delhi, ERP systems,BLOOSOM (PVT),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+467,Female,Male,right,English,Started Studying at IIIT Delhi,,Hindu,Hyderabad, Google Search Console Operator,IIIT,SARASWATI SHISHU VIDYALAYA,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+468,Female,Male,right,English,Started Studying at IIIT Delhi,,Hindu,Delhi,Mathematics ,IIIT,PHUSPANJALI VIDHALAYA,,
+469,Female,Male,apolitical,Hindi,Bought Vehicle,single,Other,Delhi,Adobe Creative Suite,IIIT,TAKTSE INTERNATIONAL SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+470,Female,Male,,English,Started Studying at IIIT Delhi,single,,Delhi, Google Search Console Operator,IIIT,LIGHT OF LIFE ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+471,,,left,Hindi,Bought Vehicle,single,,Hyderabad, C++,IIIT,MOUNT K2 ACADEMY,,
+472,Male,,left,,Bought Vehicle,,Other,Hyderabad, Scala,IIIT,WISDOM LAKE,"Hope never abandons you, you abandon it. George Weinberg"
+473,Male,Female,left,,New Job,single,,Delhi, C++,I E C MISSION PRIMARY SCHOOL RIMBI,
+474,Female,,left,,Bought Vehicle,single,,Delhi, Scala,ST PETERS SCHOOL,,
+475,Male,Female,left,,New Job,single,Hindu,Delhi,C#,IIIT,I B SUBBA MEMORIAL INSTITUTE,"Hope never abandons you, you abandon it. George Weinberg",
+476,Male,Female,apolitical,,New Job,,,Delhi,Mathematics ,EUREKA RESIDENTIAL SCHOOL BRANCH II,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+477,Female,Male,left,,Started Studying at IIIT Delhi,single,,Bangalore, C++,IIIT,MT.CARMEL ACADEMY,,
+478,Male,Female,,Hindi,New Job,,Hindu,Delhi, CRMs,IIIT,I E C MISSION PRIMARY SCHOOL RIMBI,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+479,Female,Male,right,,Graduated,single,Hindu,Delhi, ERP systems,IIIT,DEMAZONG ENGLISH ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+480,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Hyderabad,Mathematics ,TENDONG EDUCATIONAL INSTITUTE,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+481,Female,Male,right,Hindi,New Job,,Hindu,Delhi,Mathematics ,IIIT,LITTLE ANGEL ACADEMY,,
+482,Female,Male,right,,,single,Hindu,, ERP systems,IIIT,TINY TOTS SCHOOL (P),"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+483,,Female,right,Hindi,Bought Vehicle,single,,Delhi, ERP systems,ST. JOSEPH,It took me a long time not to judge myself through someone elses eyes. Sally Field
+484,Male,,apolitical,English,Started Studying at IIIT Delhi,single,,Bangalore,Mathematics ,IIIT,CENTRAL POINT ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+485,Male,Female,right,Hindi,Graduated,single,,Bangalore,C#,IIIT,KID FOUNDATION ENGLISH SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+486,Female,Male,apolitical,Hindi,Graduated,single,,Bangalore, Google Search Console Operator,IIIT,SEVENTH-DAY ADVANTIST MISSION SCHOOL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+487,Male,Female,apolitical,English,New Job,single,Hindu,Bangalore, Google Analytics,SARASWATI SISHU VIDYALA,
+488,Female,Male,apolitical,English,New Job,,Hindu,Bangalore, C++,IIIT,SUN RISE ACADEMY,,
+489,Male,Female,right,Hindi,Graduated,,Other,Delhi, Ableton Live Suite,EVERSHINE ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+490,Female,Male,,Hindi,Bought Vehicle,single,Other,Delhi, Google Analytics,IIIT,MOON LIGHT SCHOOL,,
+491,Male,Female,,,Started Studying at IIIT Delhi,single,,Delhi, Google Analytics,GEN NEXT ACADEMY,,
+492,Male,,right,English,,single,Hindu,Mumbai, CRMs,IIIT,HILL BUDS ACADEMY,,
+493,,Male,,Hindi,Bought Vehicle,,Hindu,Bangalore,Mathematics ,IIIT,KINCHIN CASTLE ACADEMY,,
+494,Male,Female,left,English,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Scala,NEW LIGHT ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+495,Male,Female,left,Hindi,Bought Vehicle,,Other,Mumbai, Google Search Console Operator,IIIT,I E C MISSION PRIMARY SCHOOL RIMBI,
+496,Female,Male,,Hindi,New Job,,Hindu,Delhi, CRMs,IIIT,HOLYCROSS ENGLISH SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+497,Male,Male,right,English,New Job,single,,Hyderabad,,WEST POINT ACADEMY,,
+498,Male,Female,,Hindi,Started Studying at IIIT Delhi,single,,Bangalore, C++,SAI GURUKUL ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+499,,Male,apolitical,,Graduated,single,Other,Bangalore, CRMs,IIIT,ST. JOSEPHS,,
+500,Male,,right,Hindi,New Job,,Hindu,Delhi,Mathematics ,IIIT,ST.TERESAS SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+501,Male,Female,right,Hindi,Graduated,,Hindu,Hyderabad,Mathematics ,NAMCHI PUBLIC SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+502,,Female,right,English,Started Studying at IIIT Delhi,single,Other,Mumbai, C++,IIIT,NEW RAYS ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+503,Female,Male,left,Hindi,Bought Vehicle,single,Hindu,Delhi,Mathematics ,LITTLE ANGELS ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+504,Female,Male,right,Hindi,Bought Vehicle,single,Hindu,Mumbai, Scala,IIIT,SEVENTH-DAY ADVANTIST MISSION SCHOOL,,
+505,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,,Delhi,Adobe Creative Suite,IIIT,"LITTLE ANGEL ACADEMY, PIPALAY",It took me a long time not to judge myself through someone elses eyes. Sally Field,
+506,Male,,,English,,single,Hindu,Bangalore,Java,CAROL ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+507,Female,Male,left,English,Bought Vehicle,single,Other,Delhi, Google Search Console Operator,IIIT,MAINUM NURSERY SCHOOL,The only place you find success before work is in the dictionary. May V Smith,
+508,,,left,Hindi,Bought Vehicle,single,Hindu,Delhi, Ableton Live Suite,IIIT,ESWARAMA SAI GURUKUL,,
+509,,Other,left,Hindi,New Job,single,Other,Delhi, Scala,IIIT,SARASWATI SISHU NIKETAN,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+510,Male,Female,apolitical,,Graduated,single,Hindu,Delhi,Java,TENDER FEET ACADEMY,,
+511,Male,Female,apolitical,Hindi,Started Studying at IIIT Delhi,,Other,Bangalore, Google Search Console Operator,IIIT,TASHIDING ENGLISH SCHOOL,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+512,Female,Male,,Hindi,Bought Vehicle,,Hindu,Delhi,R,LITTLE ANGELS ACADEMY,,
+513,Female,Male,right,English,New Job,single,Hindu,Hyderabad, CRMs,AMBIKA DAHAL MEM. SCHOOL (PVT),"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+514,Female,Male,right,Hindi,Graduated,single,Hindu,Delhi,SEM Marketing,ST. FRANCIS` SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+515,,Male,left,,Bought Vehicle,single,Other,Bangalore,,IIIT,NAMCHI PUBLIC SCHOOL,"Hope never abandons you, you abandon it. George Weinberg"
+516,Male,,,Hindi,,,Other,Delhi, Google Analytics,IIIT,KID FOUNDATION ENGLISH SCHOOL,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+517,Male,Female,left,English,New Job,single,,Bangalore, ERP systems,SPLENDOUR ACADEMY,
+518,Female,Male,right,Hindi,,single,Other,, C++,IIIT,NEW LIGHT ACADEMY,,
+519,Male,Female,right,Hindi,,single,Hindu,Bangalore,Adobe Creative Suite,REPBOM ENGLISH ACADEMY,
+520,Female,Male,apolitical,Hindi,Graduated,single,Hindu,Bangalore,Adobe Creative Suite,IIIT,KIDS WORLD (PVT),The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+521,Male,Female,,English,Graduated,single,Other,Delhi,Java,DEFFODILS ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+522,,Female,,Hindi,,single,Hindu,Bangalore,,SERNYA SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+523,Male,Female,right,Hindi,,single,,Delhi,Mathematics ,HOLYCROSS ENGLISH SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+524,,Male,left,Hindi,Graduated,single,,, CRMs,"GYAN JYOTI ACADEMY,BURIAKHOP","Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+525,Female,Male,right,English,,single,Hindu,Hyderabad,Java,TISTA MODEL ACADEMY,
+526,Male,Female,left,English,Graduated,single,Other,,,IIIT,TRINITY SCHOOL SRIBADAM,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+527,Female,,,Hindi,Graduated,single,,Mumbai, CRMs,IIIT,RADIANT ACADEMY SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+528,Male,Female,left,,Bought Vehicle,,Hindu,Hyderabad,C#,IIIT,STERLINE ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+529,Female,Male,,English,,single,Hindu,Hyderabad, Scala,EAST POINT SCHOOL,,
+530,Female,Male,right,English,Started Studying at IIIT Delhi,,,Delhi, ERP systems,IIIT,NEW TULIPS KINDERGARDEN,
+531,Female,Male,,English,Graduated,single,,Delhi,Java,TINY PEARLS,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+532,,Female,apolitical,Hindi,New Job,single,Hindu,Hyderabad, Scala,DEMAZONG ENGLISH ACADEMY,,
+533,Male,Female,,Hindi,Graduated,,,Delhi, Google Analytics,IIIT,MAYAL ENG SCHOOL (PVT),It took me a long time not to judge myself through someone elses eyes. Sally Field
+534,Female,Male,left,Hindi,,single,Hindu,Mumbai, ERP systems,IIIT,JUVENTUS ACADEMY,
+535,Male,,apolitical,,Bought Vehicle,single,Hindu,Delhi, CRMs,KINCHIN CASTLE ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+536,,Other,left,Hindi,New Job,single,Other,, Ableton Live Suite,BETHESDA ACADEMY (PVT),There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+537,Male,Female,apolitical,English,New Job,single,Other,Bangalore, CRMs,MODERN ACADEMY,,
+538,Female,Male,right,English,Started Studying at IIIT Delhi,,Hindu,Delhi, ERP systems,IIIT,DENZONG PEMA CHOELING ACADEMY,"Hope never abandons you, you abandon it. George Weinberg"
+539,,,right,Hindi,Started Studying at IIIT Delhi,,Other,Bangalore,Java,IIIT,ST THOMAS SCHOOL,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen",
+540,Female,Male,left,Hindi,,,,Delhi, Google Analytics,IIIT,GYAN PRADAN ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+541,Male,Female,apolitical,Hindi,,single,Hindu,Bangalore,Adobe Creative Suite,MOON LIGHT SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+542,Female,Female,apolitical,English,,,Hindu,Delhi, CRMs,BLOOMING BUDS ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+543,Male,,apolitical,,Bought Vehicle,,,Delhi,,IIIT,PADMA ODZER CHOLING,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+544,Female,Male,right,,Bought Vehicle,single,,Hyderabad,Frequency analysis,IIIT,NORTH SIKKIM ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+545,Male,Female,left,Hindi,,,Other,Delhi,Mathematics ,PIONEER ACADEMY SAKYONG,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+546,,Female,,English,,,Other,Bangalore,R,UNITED ACADEMY SCHOOL DARAMDIN,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+547,Male,,,English,Graduated,,Hindu,, C++,VIDYA BHARATI NAYABAZAR,,
+548,Female,Male,,Hindi,New Job,single,Hindu,Delhi, C++,ROSHAN MEMORIAL ACADEMY,
+549,Female,Male,,English,Bought Vehicle,single,Hindu,,SEM Marketing,IIIT,SEVENTH-DAY ADVANTIST MISSION SCHOOL,,
+550,Male,Female,,,,single,Hindu,Bangalore, CRMs,SARASWATI VIDYA NIKETAN,,
+551,Female,Male,,Hindi,New Job,single,Hindu,Mumbai, ERP systems,PRASANSHA ENGLISH SCHOOL,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+552,Male,,apolitical,Hindi,,single,Hindu,, C++,IIIT,WOODSTOCK SCHOOL SOMBAREY,,
+553,Female,Male,left,Hindi,New Job,,Hindu,Bangalore,,IIIT,MARIGOLD ACADAMY POKHARI DARA,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+554,,,right,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore,R,IIIT,PALKHANG ACADEMY,It took me a long time not to judge myself through someone elses eyes. Sally Field
+555,,Male,right,English,,single,Hindu,Hyderabad, ERP systems,IIIT,PIONEER PREPARATORY SCHOOL,The only place you find success before work is in the dictionary. May V Smith
+556,Male,Female,right,English,Started Studying at IIIT Delhi,,,Bangalore, CRMs,MARIGOLD ACADEMY MALBASEY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+557,Female,Male,right,English,Graduated,single,Hindu,Bangalore, Google Search Console Operator,IIIT,RAPHJORE ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+558,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi,Frequency analysis,P.M.M. U. SMART ACADEMY,
+559,Male,Female,right,,Graduated,single,Hindu,Bangalore, Google Analytics,GREENVALE ACADEMY,,
+560,,,right,Hindi,Bought Vehicle,single,Hindu,Mumbai, Ableton Live Suite,IIIT,NEW RAYS ACADEMY,,
+561,,,apolitical,Hindi,New Job,single,,Bangalore, CRMs,HOLYCROSS ENGLISH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+562,Male,Female,,,Graduated,,,Bangalore,Java,IIIT,EUREKA ENGLISH SCHOOL,,
+563,Female,Male,right,Hindi,Graduated,single,Hindu,Mumbai, ERP systems,TENDONG EDUCATIONAL INSTITUTE,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+564,Female,Male,right,,,single,Hindu,Bangalore, Google Analytics,IIIT,LITTLE KIDS ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein
+565,Male,Female,,,New Job,single,Other,,SEM Marketing,IIIT,ADONAI HOMES,,
+566,Male,Female,right,English,Graduated,single,Hindu,Delhi, Ableton Live Suite,IIIT,ST MARRYS CONVENT,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+567,Male,Female,left,English,New Job,,Hindu,Delhi, ERP systems,ANTASHKARAN CHILD ACHADAMY,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+568,Male,Female,right,English,Started Studying at IIIT Delhi,,,Delhi,C#,BETHESDA ACADEMY (PVT),"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+569,Female,Male,apolitical,Hindi,,,,Mumbai,Java,IIIT,VENUS ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+570,Male,Female,apolitical,,Bought Vehicle,single,Hindu,Delhi, Google Search Console Operator,IIIT,MT. OLIVE ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+571,Male,Female,left,Hindi,Started Studying at IIIT Delhi,,Hindu,Bangalore,Adobe Creative Suite,IIIT,NEW HORIZON ACADEMCY TASHIDING,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+572,Female,Male,,English,Bought Vehicle,,Hindu,Mumbai, Ableton Live Suite,ST. FRANCIS` SCHOOL,,
+573,,,right,,Graduated,single,Hindu,Bangalore, Google Search Console Operator,NEW VISION ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+574,Female,Male,,Hindi,Bought Vehicle,single,,Delhi, CRMs,ANNES HOUSE LEGSHIP,The only place you find success before work is in the dictionary. May V Smith
+575,Male,Female,left,English,Bought Vehicle,single,Hindu,,Mathematics ,IIIT,PLAY AND LEARN NURSERY SCHOOL,
+576,Female,Male,,English,Started Studying at IIIT Delhi,single,Hindu,,Mathematics ,NEW HORIZON ACADEMY,
+577,Male,Female,left,Hindi,,single,Hindu,Mumbai,Frequency analysis,IIIT,SARASWATI SISHU MANDIR,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+578,,Female,apolitical,Hindi,New Job,,Hindu,Delhi,C#,SUN RISE ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+579,Male,Female,apolitical,,Bought Vehicle,single,Other,Delhi, Google Analytics,TENDER BUDS PRIVATE SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+580,Female,,left,English,Bought Vehicle,single,Other,Hyderabad, Google Analytics,LITTLE FLOWER NURSERY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+581,,,left,English,,single,Hindu,Delhi,Java,"GYAN JYOTI ACADEMY,BURIAKHOP","Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+582,Female,Male,left,English,Bought Vehicle,single,Hindu,,C#,MANJUSRI PUBLIC SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+583,Male,Female,,English,,single,Hindu,Bangalore, Google Analytics,MT. OLIVE ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+584,Female,Male,right,Hindi,,single,Other,Delhi,R,ENLIGHTEN EDU.INST.,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+585,Female,,apolitical,English,New Job,single,,, CRMs,IIIT,ST. THOMAS SCHOOL,,
+586,Male,Female,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, CRMs,IIIT,ANNES HOUSE,
+587,Male,Female,apolitical,English,New Job,single,Other,Mumbai,Mathematics ,P.M.M. U. SMART ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+588,Male,Female,,Hindi,Bought Vehicle,single,Hindu,Bangalore, C++,WEST POINT ACADEMY,,
+589,Male,Female,apolitical,,New Job,,Hindu,Bangalore,,IIIT,SARASWATI VIDHYA ACADEMY,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+590,,,right,,Bought Vehicle,single,Other,Delhi, CRMs,IIIT,GRACE ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+591,,,left,English,Bought Vehicle,single,Hindu,Delhi,C#,NEW HORIZON ACADEMCY TASHIDING,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+592,Female,,right,Hindi,New Job,,Hindu,Delhi, ERP systems,IIIT,SA-VELLIE ROW,
+593,,Female,,Hindi,New Job,single,Hindu,Delhi,C#,TINY KIDS ACADEMY (PVT),"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+594,,Female,,Hindi,,single,Hindu,Bangalore, Google Search Console Operator,GENERATION NEXT ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+595,,Other,right,English,Started Studying at IIIT Delhi,single,,Delhi,Java,IIIT,SIKKIM HIMALAYAN ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+596,Female,Male,left,Hindi,Started Studying at IIIT Delhi,,,Delhi, Ableton Live Suite,IIIT,BAHAI SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+597,Male,Female,apolitical,Hindi,Bought Vehicle,,Hindu,Delhi, Scala,IIIT,LITTLE BUD,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+598,Male,,right,English,Graduated,single,Hindu,Mumbai, Scala,IIIT,SUNSHINE ACADEMY,,
+599,Female,Male,right,,Started Studying at IIIT Delhi,,Hindu,,C#,GRACE ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+600,Male,Female,,English,Started Studying at IIIT Delhi,,Hindu,Bangalore, Ableton Live Suite,MOUNT KANCHAN ACADEMY,
+601,Male,Female,,Hindi,,single,Hindu,Bangalore,Mathematics ,SAI GURUKUL ACADEMY,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+602,Male,Female,right,,Started Studying at IIIT Delhi,,Other,Mumbai, Scala,IIIT,MOUNT K2 ACADEMY,
+603,Male,Female,left,Hindi,Graduated,,,Bangalore, CRMs,GOLDEN KIDS,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+604,Male,Female,,Hindi,Bought Vehicle,single,Other,Mumbai,SEM Marketing,IIIT,MANJUSRI PUBLIC SCHOOL,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+605,Male,Female,,Hindi,Bought Vehicle,single,,Delhi,,IIIT,SOUTH POINT ACADEMY,
+606,,,left,,Started Studying at IIIT Delhi,single,Other,Hyderabad, Ableton Live Suite,IIIT,SARASWATI SISHU VIDYALAYA,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+607,Male,Female,right,English,,single,Hindu,Mumbai,C#,LITTLE ANGEL ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+608,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi,,PADMA KUMARI PUBLIC,There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle Albert Einstein,
+609,,Other,left,Hindi,New Job,,Hindu,Delhi,Adobe Creative Suite,MT. PENDAM ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+610,Female,Male,left,,Started Studying at IIIT Delhi,,Hindu,Delhi,Frequency analysis,ST STEPHENS SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+611,Female,Male,,Hindi,Bought Vehicle,single,Hindu,Mumbai, Google Analytics,IIIT,TASHIDING ENGLISH SCHOOL,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+612,Female,Male,apolitical,Hindi,,single,Other,, CRMs,LITTLE ANGEL ENGLISH SCHOOL,
+613,Female,Male,,English,Graduated,single,,Mumbai,SEM Marketing,IIIT,GREEN LIGHT ACHADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash"
+614,Male,Female,apolitical,English,Graduated,single,Other,Delhi,,PRATIVA ACADEMY ENGLISH SCHOOL,,
+615,Male,Female,apolitical,Hindi,Graduated,single,Hindu,Delhi, Ableton Live Suite,IIIT,ST. THOMAS SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+616,,Other,apolitical,English,Graduated,single,,,R,GREAT HEIGHT ACADEMY,,
+617,Male,Female,left,,Graduated,single,Hindu,Delhi, Google Search Console Operator,CAROL ACADEMY,
+618,Female,Male,,Hindi,Bought Vehicle,,Other,,Java,SAI GURUKUL ACADEMY,"Hope never abandons you, you abandon it. George Weinberg",
+619,Male,,apolitical,Hindi,,single,Hindu,, C++,SHARON VALLEY SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+620,,Female,apolitical,Hindi,Bought Vehicle,single,Hindu,, ERP systems,IIIT,LABDANG ENGLISH SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+621,,Male,left,Hindi,Graduated,,Hindu,Delhi, Ableton Live Suite,IIIT,HOLYCROSS ENGLISH SCHOOL,
+622,Female,Male,left,Hindi,Bought Vehicle,single,,Delhi,Mathematics ,ST JOHN ENGLISH SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt,
+623,Male,Female,left,Hindi,,,,Bangalore,SEM Marketing,NEW VISION ACADEMY,,
+624,Male,Female,apolitical,,Graduated,single,Hindu,Delhi, C++,HIMALAYAN ACADEMY,,
+625,Male,Female,apolitical,,,,Hindu,Delhi, C++,NORTH SIKKIM ACADEMY,
+626,Female,Male,,,New Job,single,,Delhi, Scala,MOUNT CARMEL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+627,Male,Female,,,,single,,Delhi,R,IIIT,SUNSHINE ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+628,,,apolitical,Hindi,,single,,Bangalore,Frequency analysis,IIIT,NEW VISION ACADEMY,,
+629,Male,Female,left,Hindi,New Job,single,Hindu,,Java,IIIT,HANSAVAHINI SISHU MANDIR AMBA,
+630,,Other,right,Hindi,Started Studying at IIIT Delhi,single,,, CRMs,IIIT,MANJUSRI PUBLIC SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+631,Female,Male,right,Hindi,Graduated,,Hindu,Hyderabad,R,IIIT,KINCHIN CASTLE ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+632,Female,,apolitical,Hindi,,single,Hindu,Bangalore,Adobe Creative Suite,PIONEER ACADEMY SAKYONG,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+633,,,left,English,Bought Vehicle,single,Other,Bangalore,R,IIIT,DEMAZONG ENGLISH ACADEMY,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton
+634,Female,Male,left,,New Job,,,Bangalore, ERP systems,PRASHANT VIDYA MANDIR SS(PVT),The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+635,Female,Female,right,Hindi,Graduated,single,Hindu,Hyderabad,Java,IIIT,NEW GARDEN ENG SACHOOL (PVT),,
+636,Male,Female,apolitical,Hindi,Graduated,single,Other,Delhi, Ableton Live Suite,IIIT,PIONEER PREPARATORY SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+637,,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Mumbai,Java,IIIT,SUNRISE BOARDING SCHOOL (PVT),"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+638,Male,Male,left,Hindi,,single,,Delhi,C#,IIIT,GOD WIN ENG SCHOOL (PVT),,
+639,Male,Female,right,,New Job,single,Hindu,,,IIIT,FUTURE STAR ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+640,,Other,apolitical,Hindi,New Job,single,Hindu,Delhi, Google Analytics,BAPTIST ENGLISH SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+641,Male,Female,apolitical,English,Started Studying at IIIT Delhi,single,Other,Hyderabad, C++,IIIT,BLISS ACADEMY,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+642,Female,Male,,English,,,Other,Hyderabad,,IIIT,EAST POINT SS (PVT),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+643,,Female,apolitical,Hindi,Started Studying at IIIT Delhi,single,,Bangalore,Frequency analysis,MANGAN PUBLIC SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+644,Female,Male,apolitical,Hindi,New Job,single,Hindu,Bangalore, Ableton Live Suite,IIIT,SERNYA SCHOOL,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan",
+645,,,,,Bought Vehicle,single,Hindu,, Google Search Console Operator,EVERSHINE ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+646,Female,Female,left,,New Job,single,,Delhi,Frequency analysis,EAST POINT ENGLISH SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+647,Male,Female,left,,Graduated,,Hindu,Bangalore, C++,IIIT,PARSURAM MEMORIAL ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+648,Female,Male,apolitical,Hindi,,single,Hindu,Bangalore,Java,IIIT,P.NM SCHOOL (PVT),It took me a long time not to judge myself through someone elses eyes. Sally Field
+649,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,,Bangalore,C#,HILL BUDS ACADEMY,
+650,Male,Female,left,Hindi,Bought Vehicle,single,Hindu,Delhi, Google Analytics,EVERSHINE ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+651,Male,Female,right,Hindi,Bought Vehicle,single,Hindu,,R,IIIT,MAYAL ENG SCHOOL (PVT),I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+652,,Female,apolitical,,Bought Vehicle,single,Hindu,Delhi,Frequency analysis,MATRI ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+653,Male,Female,right,English,Bought Vehicle,single,Hindu,Delhi,Mathematics ,IIIT,KINCHIN CASTLE ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+654,Male,,apolitical,Hindi,Bought Vehicle,single,,Delhi,Mathematics ,LILLYFIELD ACADEMY,
+655,Female,,,English,Graduated,,Other,Bangalore, CRMs,IIIT,ST PETERS SCHOOL,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+656,Female,Male,left,Hindi,Graduated,single,Hindu,Bangalore, Google Analytics,ST PETERS SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+657,,,right,Hindi,Graduated,single,Hindu,Mumbai,Java,IIIT,TISTA MODEL ACADEMY,"Hope never abandons you, you abandon it. George Weinberg",
+658,Female,Male,left,Hindi,Started Studying at IIIT Delhi,single,,Bangalore, CRMs,IIIT,PRATIVA ACADEMY ENGLISH SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+659,,Female,apolitical,Hindi,Started Studying at IIIT Delhi,single,Other,Bangalore, CRMs,IIIT,HOLY CROSS (PVT),"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen",
+660,Male,Female,,English,New Job,single,,Mumbai,Frequency analysis,IIIT,P.NM SCHOOL (PVT),The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+661,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Google Search Console Operator,PADMA KUMARI PUBLIC,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+662,,Other,right,Hindi,,single,Other,Mumbai, Scala,IIIT,Rainbow Academy,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+663,Male,Female,,English,Graduated,single,Other,Delhi,C#,IIIT,EVERSHINE ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+664,,Female,right,Hindi,Bought Vehicle,,Other,Delhi,,SUN SHINE ENGLISH SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field,
+665,Male,Female,right,English,New Job,,,Bangalore, CRMs,KID FOUNDATION ENGLISH SCHOOL,
+666,,Male,,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Scala,IIIT,ANNES HOUSE NURSUARY SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+667,,Female,,Hindi,Bought Vehicle,,Hindu,Bangalore, Google Search Console Operator,IIIT,LITTLE FLOWER NURSERY SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+668,,Female,,English,New Job,single,Hindu,,SEM Marketing,IIIT,EUREKA ENGLISH SCHOOL,
+669,Male,,,Hindi,,single,Hindu,Bangalore,Adobe Creative Suite,IIIT,MARIGOLD NURSERY SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+670,Male,Female,left,English,Bought Vehicle,,Other,Hyderabad, C++,DIVYA JYOTI SCHOOL (P),"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+671,,,left,,Bought Vehicle,single,Hindu,Bangalore,Adobe Creative Suite,IIIT,MT.CARMEL ACADEMY,
+672,Female,Male,right,Hindi,Bought Vehicle,single,Other,Hyderabad, Google Search Console Operator,WRENS PUBLIC SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+673,Male,Female,apolitical,Hindi,New Job,,,Delhi, Ableton Live Suite,SHARON VALLEY SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+674,Male,Female,right,Hindi,Started Studying at IIIT Delhi,,,Delhi, C++,IIIT,SPLENDOUR ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+675,Male,Female,right,English,,,Hindu,Delhi,Java,ST. THOMAS SCHOOL,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+676,Female,Male,,English,Started Studying at IIIT Delhi,single,,Delhi,Mathematics ,IIIT,LILLYFIELD ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+677,Female,,,,New Job,,,Bangalore,C#,IIIT,ST. THOMAS SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+678,,Other,apolitical,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, Ableton Live Suite,DONALD MEMORIAL ACADEMY (PVT,It took me a long time not to judge myself through someone elses eyes. Sally Field
+679,,Male,,English,,single,Other,Mumbai,,IIIT,TENDONG EDUCATIONAL INSTITUTE,"Hope never abandons you, you abandon it. George Weinberg",
+680,Female,Male,,,New Job,single,Hindu,Delhi, CRMs,IIIT,SHANTI MEMORIAL ACADEMY,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+681,Male,Male,,Hindi,Started Studying at IIIT Delhi,,Hindu,Delhi, Scala,DIVYA JYOTI SCHOOL (P),,
+682,Male,Female,,Hindi,,,,Delhi,R,IIIT,MAYAL ENG SCHOOL (PVT),The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+683,Male,Female,left,English,New Job,,,, CRMs,ST THOMAS SCHOOL,
+684,,,apolitical,Hindi,Bought Vehicle,single,Hindu,Delhi,R,SIGALILA ACADEMY,,
+685,Male,Female,,,Graduated,,Hindu,Delhi, Ableton Live Suite,IIIT,SAI GURUKUL ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+686,Female,Male,apolitical,English,,,,Delhi,Adobe Creative Suite,IIIT,GREEN LIGHT ACHADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+687,,Male,,English,Bought Vehicle,,,Delhi, CRMs,WISE TEMPLE ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+688,Female,Male,apolitical,Hindi,Graduated,,Hindu,Hyderabad, Google Analytics,IIIT,REPBOM ENGLISH ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+689,Female,Male,apolitical,Hindi,Graduated,single,Other,,SEM Marketing,IIIT,SIKKIM HOMES ACADEMY,The only place you find success before work is in the dictionary. May V Smith
+690,Male,Female,left,,,single,Hindu,Hyderabad, Ableton Live Suite,KINCHIN CASTLE ACADEMY,
+691,Male,Female,right,Hindi,,,Other,Bangalore,SEM Marketing,IIIT,SARASWATI SISHU VIDYALAYA,"Hope never abandons you, you abandon it. George Weinberg"
+692,,Other,right,English,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Google Analytics,IIIT,DEMAZONG ENGLISH ACADEMY,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+693,Female,,,Hindi,New Job,,Hindu,Hyderabad,Adobe Creative Suite,KARMA DHARMA CHAKRA UPS,
+694,Male,Female,,,,single,Hindu,Bangalore, Ableton Live Suite,NORTHWAY ACADEMY,"Ive missed more than 9,000 shots in my career. Ive lost almost 300 games. Twenty-six times Ive been trusted to take the game-winning shot and missed. Ive failed over and over and over again in my life. And that is why I succeed. Michael Jordan"
+695,Male,Female,apolitical,,Bought Vehicle,,Hindu,Mumbai, Scala,IIIT,DEFFODILS ACADEMY,,
+696,,Other,right,Hindi,Bought Vehicle,single,,,Frequency analysis,VIDHYA SAGAR ACADEMY LEGSHIP,Nobody can make you feel inferior without your consent. Eleanor Roosevelt
+697,Male,Male,,Hindi,Bought Vehicle,single,Other,Bangalore,,IIIT,PEMA SAMPHEL ACADEMY,
+698,,Male,apolitical,English,Bought Vehicle,single,Other,Bangalore,Mathematics ,MAINUM NURSERY SCHOOL,
+699,,Male,apolitical,,,single,,Mumbai,C#,ST.PETER ENGLISH SCHOOL,"Hope never abandons you, you abandon it. George Weinberg",
+700,Male,Female,apolitical,English,,single,Hindu,Bangalore,Java,GREENFINCH SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+701,Female,Male,right,Hindi,New Job,,Hindu,Delhi,R,Bethal Pvt. School,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+702,Female,Male,,Hindi,New Job,single,Hindu,Bangalore,Java,IIIT,TINY KIDS ACADEMY (PVT),"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+703,Male,Female,apolitical,Hindi,Graduated,single,Hindu,Mumbai,Frequency analysis,IIIT,SUNMARG ACADEMY,"Aerodynamically the bumblebee shouldnt be able to fly, but the bumblebee doesnt know that so it goes on flying anyway. Mary Kay Ash",
+704,Female,,,English,Graduated,single,,Delhi,C#,MAGNOLIA ENGLISH SCHOOL,It took me a long time not to judge myself through someone elses eyes. Sally Field
+705,Male,Female,apolitical,,Graduated,single,Hindu,Mumbai,C#,IIIT,PRATIVA ACADEMY,,
+706,Female,Male,apolitical,Hindi,Started Studying at IIIT Delhi,single,,Delhi,Mathematics ,IIIT,ENGLIGHTENED ACADEMY,
+707,Male,Female,,English,Graduated,,Hindu,Delhi, CRMs,GREEN HILL ACADEMY,,
+708,Male,Female,right,Hindi,Started Studying at IIIT Delhi,,,Bangalore, C++,IIIT,NEW HORIZON ACADEMCY TASHIDING,
+709,Female,Male,,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi,Java,ESWARAMA SAI GURUKUL,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas",
+710,,Female,apolitical,Hindi,Bought Vehicle,,Other,Hyderabad,Frequency analysis,IIIT,NEW GARDEN ENG SACHOOL (PVT),The only place you find success before work is in the dictionary. May V Smith,
+711,,Other,left,,Graduated,single,,Mumbai,R,KINCHIN CASTLE ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+712,Female,Male,left,Hindi,Graduated,single,Hindu,Delhi,Adobe Creative Suite,GOD WIN ENG SCHOOL (PVT),"Hope never abandons you, you abandon it. George Weinberg"
+713,Male,Female,right,,,single,Hindu,Bangalore,,IIIT,GOOD SHEPHERD SCHOOL,
+714,Female,Male,left,,Graduated,single,Other,Bangalore, ERP systems,IIIT,HIMALAYAN SCHOOL,,
+715,Female,Male,apolitical,English,New Job,,Hindu,, Google Search Console Operator,IIIT,PRATIVA ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+716,Male,,,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore, Google Search Console Operator,IIIT,LITTLE ANGELS ACADEMY,Nothing lasts forever. Not even your troubles. Arnold H Glasgow
+717,Female,,right,Hindi,Bought Vehicle,,Hindu,Mumbai,Java,IIIT,PADMA ODZER CHOLING,
+718,,Male,left,Hindi,Bought Vehicle,single,Other,Delhi, ERP systems,IIIT,MINI LAND PUBLIC SCHOOL,"Its not the size of the dog in the fight, but the size of the fight in the dog. Archie Griffen"
+719,Male,Female,,English,New Job,,Hindu,Delhi,R,IIIT,SOUTHERN LIGHTS ACADEMY,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+720,Female,Male,right,Hindi,Started Studying at IIIT Delhi,single,Other,Delhi, C++,ANGLES ENGLISH SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+721,Female,Male,apolitical,English,Graduated,,Other,Delhi,Frequency analysis,ST. THOMAS SCHOOL,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts",
+722,,,left,,,single,,Bangalore,SEM Marketing,MOUNT CARMEL SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+723,Female,Female,left,Hindi,Graduated,single,Other,Delhi,R,IIIT,SEVENTH-DAY ADVANTIST MISSION SCHOOL,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth
+724,Male,Female,,,,single,Hindu,Delhi,Frequency analysis,TINY TOTS SCHOOL (P),
+725,,Female,apolitical,English,,,,Delhi,C#,CANAAN SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+726,Female,Male,apolitical,,Bought Vehicle,,,Delhi, Scala,IIIT,RADIANT ACADEMY SCHOOL,,
+727,Female,Male,apolitical,,Bought Vehicle,single,Hindu,Delhi,Java,ANGLES ENGLISH SCHOOL,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw"
+728,Female,Male,,English,Bought Vehicle,,,,Mathematics ,IIIT,RIVERINE ELEMENTRY SCHOOL,The only place you find success before work is in the dictionary. May V Smith
+729,Female,Male,,English,,,Hindu,Delhi, Google Analytics,IIIT,P.M.M. U. SMART ACADEMY,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross",
+730,,Other,right,,Graduated,,Hindu,Hyderabad,Adobe Creative Suite,REPBOM ENGLISH ACADEMY,The only place you find success before work is in the dictionary. May V Smith,
+731,Male,Female,apolitical,,Bought Vehicle,single,Hindu,Mumbai, Scala,ST. JOSEPH,
+732,Male,,,Hindi,Started Studying at IIIT Delhi,single,Other,Bangalore, Scala,PALKHANG ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+733,Male,Female,,Hindi,,single,,Mumbai, Google Analytics,ADONAI HOMES,,
+734,Female,Male,,Hindi,New Job,single,,Delhi, Google Search Console Operator,IIIT,PLAY AND LEARN NURSERY SCHOOL,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown",
+735,Female,Male,,,,single,,Bangalore,C#,BAL JYOTI ACADEMY,I quit being afraid when my first venture failed and the sky didnt fall down. Allen H Neuharth,
+736,Male,Female,apolitical,English,Bought Vehicle,,Hindu,,C#,IIIT,SHANTI MEMORIAL ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse"
+737,,Male,right,Hindi,Bought Vehicle,single,,Delhi, Google Analytics,IIIT,PRATAP INTERNATIONAL SCHOOL,"Hope never abandons you, you abandon it. George Weinberg"
+738,,Male,apolitical,Hindi,Graduated,single,,Bangalore,Adobe Creative Suite,IIIT,TOUCH WOOD ACADEMY,"Being strong means rejoicing in who you are, complete with imperfections. Margaret Woodhouse",
+739,Male,Female,apolitical,English,Started Studying at IIIT Delhi,single,Hindu,Mumbai, C++,SIKKIM HOMES ACADEMY,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"
+740,,Male,right,Hindi,,,Hindu,,Mathematics ,CHILDRENS WORLD ACADEMY (PVT,"People are like stained-glass windows. They sparkle and shine when the sun is out, but when the darkness sets in their true beauty is revealed only if there is light from within. Elisabeth Kübler-Ross"
+741,Female,Male,,Hindi,,,Other,Delhi, CRMs,MOUNT CARMEL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins,
+742,,,apolitical,English,,single,Hindu,Hyderabad,Adobe Creative Suite,IIIT,EVERSHINE ACADEMY,"The secret is in not giving up, of all the greats they didnt quit. If you quit I guarantee youre gonna fail, but you dont know whats gunna happen if you dont give in. Eric Thomas"
+743,Male,Female,right,Hindi,New Job,,Hindu,Delhi,SEM Marketing,IIIT,HIMALAYAN RISING ACADEMY,,
+744,Male,Female,,Hindi,Bought Vehicle,,Hindu,Bangalore,SEM Marketing,IIIT,RISING NURSERY ACADEMY (PVT),"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+745,Male,Female,right,Hindi,Graduated,single,Hindu,Mumbai, CRMs,KID FOUNDATION ENGLISH SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore"
+746,Female,Male,left,English,,,,Delhi, ERP systems,PRATIVA ACADEMY ENGLISH SCHOOL,,
+747,Male,Male,apolitical,,,single,Hindu,Bangalore, CRMs,IIIT,INDRAKIL SARASWATI VIDHALAYA,It took me a long time not to judge myself through someone elses eyes. Sally Field
+748,Female,Male,apolitical,English,Started Studying at IIIT Delhi,single,Other,Delhi,R,ANNES HOUSE NUSERY,Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance. Bruce Barton,
+749,Male,Female,right,Hindi,Started Studying at IIIT Delhi,single,Hindu,Delhi, Ableton Live Suite,IIIT,DAFFODILS HOME,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+750,Female,Male,left,Hindi,Graduated,single,Hindu,Delhi, CRMs,ANUGRAH PS MANPUR,It took me a long time not to judge myself through someone elses eyes. Sally Field
+751,Female,Male,left,English,Bought Vehicle,single,Hindu,Delhi,Adobe Creative Suite,IIIT,"LITTLE ANGEL ACADEMY, PIPALAY",It took me a long time not to judge myself through someone elses eyes. Sally Field,
+752,,Male,apolitical,Hindi,Graduated,,,,Adobe Creative Suite,MINI LAND PUBLIC SCHOOL,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+753,,Female,apolitical,Hindi,New Job,single,,, Google Analytics,STAR LIGHT ACADEMY,The only thing keeping you from getting what you want is the story you keep telling yourself about why you dont have it. People who are willing to die to succeed will tend to succeed. Tony Robbins
+754,Female,Male,,English,Graduated,single,Hindu,Hyderabad,SEM Marketing,MARIGOLD ACADAMY POKHARI DARA,,
+755,Male,Female,left,Hindi,Started Studying at IIIT Delhi,single,Hindu,Bangalore,Adobe Creative Suite,MOTHER TERESA MEMORIAL SCHOOL,Nothing lasts forever. Not even your troubles. Arnold H Glasgow,
+756,Male,Female,right,English,Bought Vehicle,,Other,Delhi,Adobe Creative Suite,IIIT,HAPPY HOURS (PVT),"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+757,Male,Female,right,English,New Job,single,Other,Mumbai, C++,IIIT,SIGALILA ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+758,Male,Female,left,English,Bought Vehicle,,Hindu,Bangalore, Ableton Live Suite,IIIT,ST .PATRICK,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith",
+759,Male,Female,right,Hindi,Graduated,,Other,Delhi, C++,BETHANY EDUCATIONAL INSTITUTIO,"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+760,Female,,apolitical,Hindi,New Job,,Hindu,,C#,IIIT,LIGHT OF LIFE ACADEMY,"Just decide; whats its gonna be, who youre gonna be and how your gonna do it, and then from that point, the universe will get out of your way. Will Smith"
+761,Male,Female,left,Hindi,New Job,single,Hindu,Delhi,Java,IIIT,HIMALAYAN ACADEMY,"Hope never abandons you, you abandon it. George Weinberg",
+762,Female,Male,,,Started Studying at IIIT Delhi,single,Other,Delhi,Mathematics ,IIIT,TINY KIDS ACADEMY (PVT),"Youre going to fail your way to success, you have nothing to be ashamed of so keep your head up. It’s much easier to come up with excuses of why you cant do it. If you do what is easy your life will be hard. Les Brown"
+763,Female,Male,,,New Job,single,Hindu,Bangalore, Scala,IIIT,LELIUM ACADEMY SCHOOL,"Take chances, make mistakes. Thats how you grow. Pain nourishes your courage. You have to fail in order to practice being brave. Mary Tyler Moore",
+764,Female,Male,,Hindi,Graduated,,Hindu,Delhi,C#,IIIT,LITTLE ANGEL SCHOOL,,
+765,Male,Female,right,English,,,Hindu,Delhi, Google Search Console Operator,IIIT,HIMALAYAN ACADEMY,"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. George Bernard Shaw",
+766,,,apolitical,Hindi,Bought Vehicle,single,Hindu,Mumbai, ERP systems,IIIT,EUREKA RESIDENTIAL SCHOOL BRANCH II,"If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place. Nora Roberts"

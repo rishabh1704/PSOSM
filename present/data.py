@@ -32,34 +32,36 @@ print(12,len(d['quotes']))
 print(13,len(d['companies']))
 
 out_file = "attributes_gulati.csv"
-row_writer = csv.writer(open(out_file, "w",encoding="utf-8"))  
-number = 666
+row_writer = csv.writer(open(out_file, "w",encoding="utf-8", newline=''))  
+number = 767
 
 print(d.keys())
 
+row_writer.writerow(["",0,1,2,3,4,5,6,7,8,9,10,11,12,"username"])
+
 for row in range(number):  
-    new_row = []
-    for ky in d.keys():
-	    x = rnd.randint(0,len(d[ky])-1)
-	    if (ky =="companies" ):
-		    x = rnd.randint(0,100)
+	new_row = [row]
+	for ky in d.keys():
+		x = rnd.randint(0,len(d[ky])-1)
+		if (ky =="companies" ):
+			x = rnd.randint(0,100)
 			if (x < 50):
 				new_row.append("")
 		elif(ky =="college"):
 			x = rnd.randint(0,100)
 			if (x < 50):
 				new_row.append("IIIT")
-	    elif(ky=="interest" and new_row[-1]!=""):
-	    	rnd_x = rnd.randint(1,50)
-    		if(rnd_x<45):
-    			new_row.append("Female" if new_row[-1]=="Male" else "Male")
-    		elif(rnd_x==50):
-    			new_row.append("Male" if new_row[-1]=="Male" else "Female")
-    		else:
-    			new_row.append("")
-	    else:
-	    	new_row.append(d[ky][x])
-    
-    row_writer.writerow(new_row)
+		elif(ky=="interest" and new_row[-1]!=""):
+			rnd_x = rnd.randint(1,50)
+			if(rnd_x<45):
+				new_row.append("Female" if new_row[-1]=="Male" else "Male")
+			elif(rnd_x==50):
+				new_row.append("Male" if new_row[-1]=="Male" else "Female")
+			else:
+				new_row.append("")
+		else:
+			new_row.append(d[ky][x])
+	
+	row_writer.writerow(new_row)
 
 print("CSV File Made.")
